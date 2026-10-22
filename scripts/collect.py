@@ -29,7 +29,12 @@ def record_source(name, ok, count=None, error=None):
     status['sources'][name]=entry
 
 try:
- raw=get(URLS['kev']); vulns=raw.get('vulnerabilities',[])
+ try:
+  raw=get(URLS['kev'])
+ except Exception:
+  # CISA-operated GitHub mirror, not a third-party vulnerability database.
+  raw=get('https://raw.githubusercontent.com/cisagov/kev-data/develop/known_exploited_vulnerabilities.json')
+ vulns=raw.get('vulnerabilities',[])
  if not isinstance(vulns,list) or not vulns:raise ValueError('No KEV records returned')
  items=[{'cve':str(v.get('cveID','')),'vendor':str(v.get('vendorProject','')),'product':str(v.get('product','')),'name':str(v.get('vulnerabilityName','')),'added':str(v.get('dateAdded','')),'due':str(v.get('dueDate','')),'ransomware':str(v.get('knownRansomwareCampaignUse','')),'action':str(v.get('requiredAction','')),'notes':str(v.get('notes',''))} for v in vulns]
  items.sort(key=lambda x:(x['added'],x['cve']),reverse=True)
