@@ -104,3 +104,11 @@ Articles remain on their publishers' websites. The dashboard displays headlines,
 ## v8.1 test release
 
 Includes explainable security triage, policy-topic filtering, time-scoped briefings with printable output, vendor KEV drilldowns, explicit CVE-to-KEV cross-references, and browser-local vendor watchlists. CISA RSS feeds may still return HTTP 403 from GitHub Actions; source health explicitly reports failures. All attention signals are heuristics, not determinations of exposure or legal applicability.
+
+
+## v8.2 acceptance changes
+
+- Vendor Intelligence now uses a scroll-contained vendor selector and adjacent details, with 7-day, 30-day, and historical filters, product/CVE search, and ten-at-a-time pagination.
+- Executive briefing leadership considerations are tailored to security reports, KEV records, and policy documents. The briefing applies a stricter title-based policy exclusion filter.
+- The collector can fall back to CISA's official GitHub KEV mirror if the primary CISA KEV endpoint fails. CISA advisory RSS HTTP 403 failures remain visible in source health; no unofficial replacement is claimed.
+- Public-source research only. No user identity, organizational assets, or authenticated government resources.
