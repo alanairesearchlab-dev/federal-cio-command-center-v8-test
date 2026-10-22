@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-10-22T17:05:26+00:00",
+  "retrieved_at": "2026-10-22T17:34:28+00:00",
   "sources": [
     "cisa_all",
     "cisa_alerts",
@@ -8,6 +8,15 @@
     "hackernews"
   ],
   "items": [
+    {
+      "title": "Arista patches new VeloCloud Orchestrator zero-day exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/",
+      "published": "Thu, 22 Oct 2026 13:18:22 -0400",
+      "summary": "Arista Networks released security updates to patch an actively exploited zero-day vulnerability affecting VeloCloud Orchestrator (VCO) On-Prem deployments. [...]",
+      "source": "BleepingComputer",
+      "kind": "news",
+      "attention_keyword": true
+    },
     {
       "title": "Meta Ordered to Pay $25 Billion After Court Finds 43 Million Privacy Violations",
       "url": "https://thehackernews.com/2026/10/meta-ordered-to-pay-25-billion-after.html",
@@ -338,15 +347,6 @@
       "published": "Wed, 21 Oct 2026 14:31:12 +0530",
       "summary": "Unknown threat actors breached TeamUpdraft's website and potentially gained unauthorized access to customers' connection keys for UpdraftCentral, UpdraftVault, and UpdraftClone, using them to backdoor WordPress sites. TeamUpdraft is the developer behind UpdraftPlus, a popular WordPress backup plugin with over four million active installations. The vendor also offers UpdraftCentral, a remote",
       "source": "The Hacker News",
-      "kind": "news",
-      "attention_keyword": false
-    },
-    {
-      "title": "CISA: SafePay ransomware hit over 600 critical infrastructure orgs",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/",
-      "published": "Wed, 21 Oct 2026 04:36:24 -0400",
-      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) says the SafePay ransomware gang has breached over 600 critical infrastructure organizations worldwide since 2024. [...]",
-      "source": "BleepingComputer",
       "kind": "news",
       "attention_keyword": false
     },
