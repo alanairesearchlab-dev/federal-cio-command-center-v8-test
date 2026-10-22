@@ -99,3 +99,8 @@ The Cyber Intelligence workspace includes official CISA alerts and advisories, a
 The public collection workflow checks these feeds every four hours, subject to GitHub Actions scheduling delays. If individual sources fail, their last successfully retrieved items are retained and the source status records the error. RSS providers may restrict automated requests or change feed formats; check the Actions log and `data/status.json` when a source fails.
 
 Articles remain on their publishers' websites. The dashboard displays headlines, dates, attribution, and outbound links, not full-text copies.
+
+
+## v8.1 test release
+
+Includes explainable security triage, policy-topic filtering, time-scoped briefings with printable output, vendor KEV drilldowns, explicit CVE-to-KEV cross-references, and browser-local vendor watchlists. CISA RSS feeds may still return HTTP 403 from GitHub Actions; source health explicitly reports failures. All attention signals are heuristics, not determinations of exposure or legal applicability.
