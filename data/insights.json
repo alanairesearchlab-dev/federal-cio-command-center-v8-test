@@ -1,0 +1,129 @@
+{
+  "retrieved_at": "2026-10-22T17:05:26+00:00",
+  "comparison_available": true,
+  "new_since_previous_collection": [],
+  "new_count": 0,
+  "top_vendors": [
+    {
+      "name": "Microsoft",
+      "count": 390
+    },
+    {
+      "name": "Cisco",
+      "count": 101
+    },
+    {
+      "name": "Apple",
+      "count": 95
+    },
+    {
+      "name": "Adobe",
+      "count": 82
+    },
+    {
+      "name": "Google",
+      "count": 75
+    },
+    {
+      "name": "Oracle",
+      "count": 46
+    },
+    {
+      "name": "Apache",
+      "count": 41
+    },
+    {
+      "name": "Ivanti",
+      "count": 36
+    },
+    {
+      "name": "Fortinet",
+      "count": 32
+    },
+    {
+      "name": "Linux",
+      "count": 31
+    },
+    {
+      "name": "Citrix",
+      "count": 27
+    },
+    {
+      "name": "D-Link",
+      "count": 26
+    },
+    {
+      "name": "VMware",
+      "count": 26
+    },
+    {
+      "name": "SonicWall",
+      "count": 19
+    },
+    {
+      "name": "Synacor",
+      "count": 19
+    },
+    {
+      "name": "Android",
+      "count": 17
+    },
+    {
+      "name": "Palo Alto Networks",
+      "count": 16
+    },
+    {
+      "name": "Samsung",
+      "count": 15
+    },
+    {
+      "name": "Atlassian",
+      "count": 14
+    },
+    {
+      "name": "SAP",
+      "count": 14
+    },
+    {
+      "name": "Zyxel",
+      "count": 13
+    },
+    {
+      "name": "Mozilla",
+      "count": 13
+    },
+    {
+      "name": "Trend Micro",
+      "count": 12
+    },
+    {
+      "name": "Qualcomm",
+      "count": 12
+    },
+    {
+      "name": "SolarWinds",
+      "count": 11
+    },
+    {
+      "name": "Roundcube",
+      "count": 11
+    },
+    {
+      "name": "QNAP",
+      "count": 11
+    },
+    {
+      "name": "Red Hat",
+      "count": 9
+    },
+    {
+      "name": "Progress",
+      "count": 9
+    },
+    {
+      "name": "Arm",
+      "count": 9
+    }
+  ],
+  "note": "New means first seen by this collector, not necessarily newly published or exploited."
+}

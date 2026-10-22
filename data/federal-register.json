@@ -1,0 +1,807 @@
+{
+  "retrieved_at": "2026-10-22T17:05:26+00:00",
+  "source": "https://www.federalregister.gov/api/v1/documents.json?per_page=100&order=newest&conditions%5Bterm%5D=cybersecurity%20OR%20artificial%20intelligence%20OR%20information%20technology",
+  "count": 100,
+  "items": [
+    {
+      "title": "Grant Guideline; Notice",
+      "date": "2026-10-21",
+      "url": "https://www.federalregister.gov/documents/2026/10/21/2026-21505/grant-guideline-notice",
+      "type": "Notice",
+      "agency": "State Justice Institute",
+      "abstract": "This guideline sets forth the administrative, programmatic, and financial requirements attendant to FY 2027 State Justice Institute grants."
+    },
+    {
+      "title": "Notice of Order Regarding Exclusion and Removal of DeepSeek Products From Federal Civilian Executive Branch Information Technology Systems and Procurements",
+      "date": "2026-10-20",
+      "url": "https://www.federalregister.gov/documents/2026/10/20/2026-21447/notice-of-order-regarding-exclusion-and-removal-of-deepseek-products-from-federal-civilian-executive",
+      "type": "Notice",
+      "agency": "Homeland Security Department",
+      "abstract": "The Department of Homeland Security is publishing notice of the Secretary of Homeland Security's issuance of an order (1) excluding information technology products and services developed by Hangzhou DeepSeek Artificial Intelligence Co., Ltd (DeepSeek), to include affiliated entities as defined in applicable regulations, from federal civilian agency procurements; and, (2) removing all DeepSeek and DeepSeek-affiliate products, and third-party products and services developed using DeepSeek implementations, from civilian agency information technology."
+    },
+    {
+      "title": "Regulation Crypto Asset Transactions and Regulation Crypto Asset Markets",
+      "date": "2026-10-13",
+      "url": "https://www.federalregister.gov/documents/2026/10/13/2026-20888/regulation-crypto-asset-transactions-and-regulation-crypto-asset-markets",
+      "type": "Proposed Rule",
+      "agency": "Commodity Futures Trading Commission",
+      "abstract": "The Commodity Futures Trading Commission (\"Commission\" or \"CFTC\") is issuing an advanced notice of proposed rulemaking regarding section 2(c)(2)(D) of the Commodity Exchange Act (\"CEA\" or \"Act\") to provide notice and seek public comment on its intent to develop and establish fit-for-purpose rules implementing section 2(c)(2)(D) of the Act with respect to transactions and markets in crypto assets."
+    },
+    {
+      "title": "Adviser and Regulated Fund Custody Rules; Crypto Custody Rules",
+      "date": "2026-10-06",
+      "url": "https://www.federalregister.gov/documents/2026/10/06/2026-20466/adviser-and-regulated-fund-custody-rules-crypto-custody-rules",
+      "type": "Proposed Rule",
+      "agency": "Securities and Exchange Commission",
+      "abstract": "The Securities and Exchange Commission (the \"Commission\" or the \"SEC\") is proposing new custody rules under the Investment Company Act of 1940 (the \"Investment Company Act\") and amendments to related reporting and recordkeeping requirements to address how regulated investment companies may custody crypto securities and similar investments, and amendments to the custody rule and related reporting and recordkeeping rules under the Investment Advisers Act of 1940 (the \"Advisers Act\") to address how registered investment advisers may custody client crypto funds and securities. We are also proposin"
+    },
+    {
+      "title": "Implementing the Federal Reserve Board's Responsibilities Under the GENIUS Act",
+      "date": "2026-09-29",
+      "url": "https://www.federalregister.gov/documents/2026/09/29/2026-19860/implementing-the-federal-reserve-boards-responsibilities-under-the-genius-act",
+      "type": "Proposed Rule",
+      "agency": "Federal Reserve System",
+      "abstract": "The Board of Governors of the Federal Reserve System (Board) proposes to issue regulations to implement the Guiding and Establishing National Innovation for U.S. Stablecoins Act (GENIUS Act) with respect to Board-supervised permitted payment stablecoin issuers (PPSIs) and certain other entities that are subject to the Board's jurisdiction. In addition, the Board proposes to issue regulations to implement the prohibition on tying in section 4(a)(8) of the GENIUS Act, which is applicable generally to all PPSIs."
+    },
+    {
+      "title": "Order Granting Temporary Conditional Exemptive Relief, Pursuant to Section 36(a)(1) of the Securities Exchange Act of 1934, From the Definition of “Exchange” in Section 3(a)(1) of the Exchange Act for the Use of Certain Distributed Ledger Trading Venues for Tokenized NMS Stocks and From the Definition of “Dealer” in Section 3(a)(5) of the Exchange Act for Certain Liquidity Providers for Tokenized NMS Stocks, and Request for Comment",
+      "date": "2026-09-22",
+      "url": "https://www.federalregister.gov/documents/2026/09/22/2026-19388/order-granting-temporary-conditional-exemptive-relief-pursuant-to-section-36a1-of-the-securities",
+      "type": "Notice",
+      "agency": "Securities and Exchange Commission",
+      "abstract": ""
+    },
+    {
+      "title": "Securing the United States Bulk-Power System",
+      "date": "2026-09-09",
+      "url": "https://www.federalregister.gov/documents/2026/09/09/2026-18370/securing-the-united-states-bulk-power-system",
+      "type": "Notice",
+      "agency": "Energy Department",
+      "abstract": "Consistent with the Executive order of August 26, 2026, Declaring a National Emergency to Secure the United States Bulk-Power System, the Department of Energy (DOE or the Department) is seeking information from industry and other stakeholders to inform DOE actions to implement the Executive order. Specifically, DOE seeks information regarding the scope of covered equipment and transactions; risks associated with Covered Foreign Entities and foreign-produced bulk- power system electric equipment; supply chain, software, firmware, digital service, maintenance service, and remote-access practices"
+    },
+    {
+      "title": "Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Notice of Filing of a Proposed Rule Change To Amend FINRA Rules 0150 (Application of Rules to Exempted Securities Except Municipal Securities), 2165 (Financial Exploitation of Specified Adults) and 4512 (Customer Account Information) and To Adopt FINRA Rule 2166 (Temporary Delays for Suspected Fraud)",
+      "date": "2026-09-09",
+      "url": "https://www.federalregister.gov/documents/2026/09/09/2026-18293/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-filing-of-a",
+      "type": "Notice",
+      "agency": "Securities and Exchange Commission",
+      "abstract": ""
+    },
+    {
+      "title": "Transfer Agent Rules",
+      "date": "2026-09-04",
+      "url": "https://www.federalregister.gov/documents/2026/09/04/2026-18190/transfer-agent-rules",
+      "type": "Proposed Rule",
+      "agency": "Securities and Exchange Commission",
+      "abstract": "The U.S. Securities and Exchange Commission (\"SEC\" or \"Commission\") is proposing to adopt new rules, amend existing rules, amend the existing form for registration with the Commission as a transfer agent (Form TA-1) and the existing form for reporting activities of transfer agents (Form TA-2), and rescind an existing rule governing registered transfer agents. The proposals are designed to modernize the rules governing registered transfer agents."
+    },
+    {
+      "title": "Heightened Import Disclosures for Supply Chain Visibility",
+      "date": "2026-09-02",
+      "url": "https://www.federalregister.gov/documents/2026/09/02/2026-17926/heightened-import-disclosures-for-supply-chain-visibility",
+      "type": "Proposed Rule",
+      "agency": "Homeland Security Department, U.S. Customs and Border Protection",
+      "abstract": "U.S. Customs and Border Protection (CBP) is considering amending its regulations to give CBP greater visibility into the supply chains of goods imported into the United States. CBP is seeking comments on new requirements enhancing visibility into the parties involved in the importation of goods; integrating innovative technical solutions for the tracing of supply chains of those goods; and collecting foreign export documentation that foreign exporters are required to submit to the foreign customs authority prior to the exportation of those goods to the United States. With these proposals, CBP "
+    },
+    {
+      "title": "Regulation Crypto Assets",
+      "date": "2026-08-21",
+      "url": "https://www.federalregister.gov/documents/2026/08/21/2026-17183/regulation-crypto-assets",
+      "type": "Proposed Rule",
+      "agency": "Securities and Exchange Commission",
+      "abstract": "The Securities and Exchange Commission (\"Commission\") is proposing new rules to create a tailored offering regime for certain investment contracts involving crypto assets. The proposed offering regime is intended to facilitate capital formation and accommodate innovation within the crypto asset markets while, at the same time, ensuring that investors are adequately protected and provided with the information they need to make informed investment decisions. The proposed rules would be set forth in a new regulation titled \"Regulation Crypto Assets\" and would include two exemptions from the regis"
+    },
+    {
+      "title": "Unified Agenda of Federal Regulatory and Deregulatory Actions-2026",
+      "date": "2026-08-14",
+      "url": "https://www.federalregister.gov/documents/2026/08/14/2026-16615/unified-agenda-of-federal-regulatory-and-deregulatory-actions-2026",
+      "type": "Notice",
+      "agency": "Federal Communications Commission",
+      "abstract": "Executive Order 12866, Regulatory Planning and Review (Sep. 30, 1993), requires each agency to publish a regulatory agenda (Agenda) of regulations under development or review during the next year which will be included in the Unified Agenda of Regulatory and Deregulatory Actions (Unified Agenda). 58 FR 51735 (Oct. 4, 1993). The Agenda required by Executive Order 12866 must include all regulations the agency expects to develop or review during the next 12 months, regardless of whether they may have a significant economic impact on a substantial number of small entities. Executive Order 12866 pr"
+    },
+    {
+      "title": "Introduction to the Unified Agenda of Federal Regulatory and Deregulatory Actions-2026",
+      "date": "2026-08-14",
+      "url": "https://www.federalregister.gov/documents/2026/08/14/2026-16603/introduction-to-the-unified-agenda-of-federal-regulatory-and-deregulatory-actions-2026",
+      "type": "Notice",
+      "agency": "Regulatory Information Service Center",
+      "abstract": "Publication of the 2026 Unified Agenda of Federal Regulatory and Deregulatory Actions represents a key component of the regulatory planning mechanism prescribed in Executive Order (\"E.O.\") 12866, \"Regulatory Planning and Review,\" (58 FR 51735, as amended) and reaffirmed in E.O. 13563, \"Improving Regulation and Regulatory Review,\" (76 FR 3821) and E.O. 14192, \"Unleashing Prosperity Through Deregulation.\" The Regulatory Flexibility Act requires that agencies publish semiannual regulatory agendas in the Federal Register describing regulatory actions they are developing that may have a significant"
+    },
+    {
+      "title": "Renewal of the Innovation Advisory Committee",
+      "date": "2026-08-12",
+      "url": "https://www.federalregister.gov/documents/2026/08/12/2026-16423/renewal-of-the-innovation-advisory-committee",
+      "type": "Notice",
+      "agency": "Commodity Futures Trading Commission",
+      "abstract": "The Commodity Futures Trading Commission (CFTC or Commission) is publishing this notice to announce the renewal of the Innovation Advisory Committee (IAC). The Commission has determined that the renewal of the IAC is necessary and in the public's interest."
+    },
+    {
+      "title": "Request for Information (RFI) on Modernizing the National Vulnerability Database in the Age of Artificial Intelligence",
+      "date": "2026-08-12",
+      "url": "https://www.federalregister.gov/documents/2026/08/12/2026-16371/request-for-information-rfi-on-modernizing-the-national-vulnerability-database-in-the-age-of",
+      "type": "Notice",
+      "agency": "Commerce Department, National Institute of Standards and Technology",
+      "abstract": "The National Institute of Standards and Technology (NIST) established and operates the National Vulnerability Database (NVD), which provides the U.S. government repository of standards-based vulnerability management data. NIST seeks stakeholder input on opportunities, challenges, and priorities for modernizing the NVD in an evolving cybersecurity landscape increasingly shaped by artificial intelligence (AI) and machine-consumable security data. NIST's goal is to improve the NVD's scalability, automation, interoperability, transparency, and utility."
+    },
+    {
+      "title": "Medicare Program; Hospital Inpatient Prospective Payment Systems for Acute Care Hospitals (IPPS) and the Long-Term Care Hospital Prospective Payment System and Policy Changes and Fiscal Year (FY) 2027 Rates; Requirements for Quality Programs; Other Policy Changes; and Adoption of Updated Versions of Certain Health Information Technology Standards",
+      "date": "2026-08-04",
+      "url": "https://www.federalregister.gov/documents/2026/08/04/2026-15833/medicare-program-hospital-inpatient-prospective-payment-systems-for-acute-care-hospitals-ipps-and",
+      "type": "Rule",
+      "agency": "Health and Human Services Department, Centers for Medicare & Medicaid Services, ",
+      "abstract": "This final rule will revise the Medicare hospital inpatient prospective payment systems (IPPS) for operating and capital-related costs of acute care hospitals; make changes relating to Medicare graduate medical education (GME) for teaching hospitals; update the payment policies and the annual payment rates for the Medicare prospective payment system (PPS) for inpatient hospital services provided by long-term care hospitals (LTCHs); update and make changes to requirements for certain quality programs; and make other policy- related changes. ONC also adopts certain health information technology "
+    },
+    {
+      "title": "Statement of Organization, Functions, and Delegations of Authority",
+      "date": "2026-07-29",
+      "url": "https://www.federalregister.gov/documents/2026/07/29/2026-15297/statement-of-organization-functions-and-delegations-of-authority",
+      "type": "Notice",
+      "agency": "Health and Human Services Department, Food and Drug Administration",
+      "abstract": "The Food and Drug Administration's (FDA) plans to centralize and enhance key functions across the agency. These changes will reduce redundancies, improve efficiency, and advance alignment to better serve the American public."
+    },
+    {
+      "title": "Review of Submarine Cable Landing License Rules and Procedures To Assess Evolving National Security, Law Enforcement, Foreign Policy, and Trade Policy Risks",
+      "date": "2026-07-27",
+      "url": "https://www.federalregister.gov/documents/2026/07/27/2026-15123/review-of-submarine-cable-landing-license-rules-and-procedures-to-assess-evolving-national-security",
+      "type": "Rule",
+      "agency": "Federal Communications Commission",
+      "abstract": "In this document, the Federal Communications Commission (Commission or FCC) adopted a Second Report and Order that promotes the deployment of submarine cables while strengthening national security interests in connection with their modern capabilities. The Second Report and Order establishes a regulatory regime for licensing owners and/or operators of submarine line terminal equipment (SLTE), including granting a blanket license to certain current and future SLTE owners and/or operators that are not currently a licensee. The Second Report and Order adopts certain routine conditions and outline"
+    },
+    {
+      "title": "Electronic Delivery of Information Under the Federal Securities Laws",
+      "date": "2026-07-21",
+      "url": "https://www.federalregister.gov/documents/2026/07/21/2026-14679/electronic-delivery-of-information-under-the-federal-securities-laws",
+      "type": "Proposed Rule",
+      "agency": "Securities and Exchange Commission",
+      "abstract": "The Securities and Exchange Commission (the \"SEC\" or the \"Commission\") is proposing Regulation E-Delivery. The proposed rule sets forth conditions for covered entities to deliver covered information to covered recipients electronically without first obtaining their affirmative consent. The proposed rule further establishes conditions under which the Commission would consider delivery requirements under the Federal securities laws to be satisfied by electronic delivery. The Commission also is proposing to rescind the rule providing alternative means for registered investment companies to satisf"
+    },
+    {
+      "title": "Request for Nominations for Members To Serve on National Institute of Standards and Technology Federal Advisory Committees",
+      "date": "2026-07-20",
+      "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14585/request-for-nominations-for-members-to-serve-on-national-institute-of-standards-and-technology",
+      "type": "Notice",
+      "agency": "Commerce Department, National Institute of Standards and Technology",
+      "abstract": "The National Institute of Standards and Technology (NIST or Institute) invites and requests nomination of individuals for appointment to seven existing Federal Advisory Committees (Committees): Advisory Committee on Earthquake Hazards Reduction; Board of Overseers of the Malcolm Baldrige National Quality Award; Information Security and Privacy Advisory Board; Manufacturing Extension Partnership Advisory Board; National Artificial Intelligence Advisory Committee, including the National Artificial Intelligence Advisory Committee's Subcommittee on Artificial Intelligence and Law Enforcement; Nati"
+    },
+    {
+      "title": "Establishing a Fixed Time Period of Admission and an Extension of Stay Procedure for Nonimmigrant Academic Students, Exchange Visitors, and Representatives of Foreign Information Media",
+      "date": "2026-07-17",
+      "url": "https://www.federalregister.gov/documents/2026/07/17/2026-14439/establishing-a-fixed-time-period-of-admission-and-an-extension-of-stay-procedure-for-nonimmigrant",
+      "type": "Rule",
+      "agency": "Homeland Security Department",
+      "abstract": "The Department of Homeland Security (DHS) is amending its regulations to change the admission period in the F, J, and I classifications from duration of status to an admission for a fixed time period, and additional changes to admission and extension requirements. This final rule will provide additional protections and oversight of these nonimmigrant categories and will allow DHS to better evaluate whether these nonimmigrants are maintaining status while temporarily in the United States. This final rule provides amendments to the proposed rule covering this topic that was published in the Fede"
+    },
+    {
+      "title": "Request for Information; Clinical Laboratory Improvement Amendments of 1988 (CLIA) Regulations",
+      "date": "2026-07-16",
+      "url": "https://www.federalregister.gov/documents/2026/07/16/2026-14358/request-for-information-clinical-laboratory-improvement-amendments-of-1988-clia-regulations",
+      "type": "Proposed Rule",
+      "agency": "Health and Human Services Department, Centers for Medicare & Medicaid Services",
+      "abstract": "Clinical laboratory testing technology has advanced significantly since the Clinical Laboratory Improvement Amendments of 1988 (CLIA) regulations were implemented in 1992. This request for information (RFI) seeks input from the public regarding various topics related to the CLIA regulations, including: breath testing; laboratory processes and procedures; emergency preparedness, biosafety and biosecurity, and cybersecurity; and specialty testing areas. Responses to this RFI may be used to help inform CMS and the CDC as to what types of action, if any, should be taken to update the existing CLIA"
+    },
+    {
+      "title": "Medicare and Medicaid Programs; CY 2027 Payment Policies Under the Physician Fee Schedule and Other Changes to Part B Payment and Coverage Policies; Medicare Shared Savings Program Requirements; and Medicare Prescription Drug Inflation Rebate Program",
+      "date": "2026-07-16",
+      "url": "https://www.federalregister.gov/documents/2026/07/16/2026-14327/medicare-and-medicaid-programs-cy-2027-payment-policies-under-the-physician-fee-schedule-and-other",
+      "type": "Proposed Rule",
+      "agency": "Health and Human Services Department, Centers for Medicare & Medicaid Services",
+      "abstract": "This proposed rule addresses: changes to the physician fee schedule (PFS); other changes to Medicare Part B payment policies to ensure that payment systems are updated to reflect changes in medical practice, relative value of services, and changes in the statute; codification of establishment of new policies for: the Medicare Prescription Drug Inflation Rebate Program under the Inflation Reduction Act of 2022; the Ambulatory Specialty Model; updates to drugs and biological products paid under Part B; Medicare Shared Savings Program requirements; updates to the Quality Payment Program; updates "
+    },
+    {
+      "title": "Pipeline Safety: Repair Criteria for Hazardous Liquid and Gas Transmission Pipelines",
+      "date": "2026-07-08",
+      "url": "https://www.federalregister.gov/documents/2026/07/08/2026-13805/pipeline-safety-repair-criteria-for-hazardous-liquid-and-gas-transmission-pipelines",
+      "type": "Proposed Rule",
+      "agency": "Transportation Department, Pipeline and Hazardous Materials Safety Administration",
+      "abstract": "PHMSA proposes to modernize and to clarify the anomaly response criteria in the Federal pipeline safety regulations for gas transmission and hazardous liquid pipelines. Driven by twenty years of technological development, modern engineering concepts allow operators to identify, schedule, and remediate pipeline anomalies more effectively and in a less costly manner. PHMSA proposes incorporating these improved safety practices into its regulations by finalizing certain safety improvements advanced in recent rulemakings for gas transmission pipelines and extending those changes to hazardous liqui"
+    },
+    {
+      "title": "Policy Statement Concerning the Suppression of Accuracy in Artificial Intelligence Systems",
+      "date": "2026-07-07",
+      "url": "https://www.federalregister.gov/documents/2026/07/07/2026-13628/policy-statement-concerning-the-suppression-of-accuracy-in-artificial-intelligence-systems",
+      "type": "Notice",
+      "agency": "Federal Trade Commission",
+      "abstract": "The Federal Trade Commission (\"Commission\") is proposing a policy statement regarding the application of the prohibition on deceptive acts or practices in section 5 of the Federal Trade Commission Act to companies that market artificial intelligence (\"AI\") systems."
+    },
+    {
+      "title": "Implementing Voluntary Agreements Under the Defense Production Act",
+      "date": "2026-07-06",
+      "url": "https://www.federalregister.gov/documents/2026/07/06/2026-13486/implementing-voluntary-agreements-under-the-defense-production-act",
+      "type": "Notice",
+      "agency": "Energy Department",
+      "abstract": "On October 23, 2025, the Department of Energy held a public meeting to discuss the development of voluntary agreements and plans of action under the Defense Production Act. As part of that meeting, a draft voluntary agreement was released to the accompanying docket and published in the Federal Register for comment. This notice publishes the \"Nuclear Fuel Cycle Consortium\" Voluntary Agreement approved by the Secretary of Energy, after consultation by the Attorney General and Chairman of the Federal Trade Commission."
+    },
+    {
+      "title": "Modernizing Security Requirements",
+      "date": "2026-06-26",
+      "url": "https://www.federalregister.gov/documents/2026/06/26/2026-12989/modernizing-security-requirements",
+      "type": "Proposed Rule",
+      "agency": "Nuclear Regulatory Commission",
+      "abstract": "The U.S. Nuclear Regulatory Commission (NRC) is proposing to revise its regulations to modernize security and fitness-for-duty requirements to enhance efficiency, consistent with Executive Order 14300, \"Ordering the Reform of the Nuclear Regulatory Commission.\" The proposed revisions are intended to reduce regulatory burden, where appropriate, while continuing to provide reasonable assurance that safety and security will be adequately maintained at NRC-licensed facilities."
+    },
+    {
+      "title": "Prediction Markets; Public Interest Determinations",
+      "date": "2026-06-12",
+      "url": "https://www.federalregister.gov/documents/2026/06/12/2026-11854/prediction-markets-public-interest-determinations",
+      "type": "Proposed Rule",
+      "agency": "Commodity Futures Trading Commission",
+      "abstract": "The Commodity Futures Trading Commission (Commission or CFTC) is proposing amendments to its rules concerning event contract derivatives. The markets for these event contracts are commonly referred to as \"prediction markets.\" In particular, the Commission is proposing amendments to further specify the types of event contracts that may be subject to a determination that they are contrary to the public interest, such that they may not be listed for trading or accepted for clearing on or through a CFTC-registered entity, as provided in the Commodity Exchange Act (CEA). The proposed amendments set"
+    },
+    {
+      "title": "Statement of Organization, Functions, and Delegations of Authority",
+      "date": "2026-06-11",
+      "url": "https://www.federalregister.gov/documents/2026/06/11/2026-11743/statement-of-organization-functions-and-delegations-of-authority",
+      "type": "Notice",
+      "agency": "Health and Human Services Department, Centers for Medicare & Medicaid Services",
+      "abstract": "The Centers for Medicare and Medicaid Services (CMS), Office of Health Technology and Products (OHTP), has been established. This new organizational component will provide enterprise leadership and oversight for CMS healthcare technology modernization, digital products, and transformation of platforms and services supporting Medicare, Medicaid, the Children's Health Insurance Program (CHIP), and other CMS-administered programs, in close coordination with the CMS Chief Information Officer (CIO) and subject to CIO-led enterprise information technology (IT) governance, cybersecurity, enterprise a"
+    },
+    {
+      "title": "Promoting Advanced Artificial Intelligence Innovation and Security",
+      "date": "2026-06-05",
+      "url": "https://www.federalregister.gov/documents/2026/06/05/2026-11415/promoting-advanced-artificial-intelligence-innovation-and-security",
+      "type": "Presidential Document",
+      "agency": "Executive Office of the President",
+      "abstract": ""
+    },
+    {
+      "title": "Reforming the High-Cost Program for an All-IP Future, Connect America Fund: A National Broadband Plan for Our Future High-Cost Universal Support",
+      "date": "2026-06-05",
+      "url": "https://www.federalregister.gov/documents/2026/06/05/2026-11353/reforming-the-high-cost-program-for-an-all-ip-future-connect-america-fund-a-national-broadband-plan",
+      "type": "Proposed Rule",
+      "agency": "Federal Communications Commission",
+      "abstract": "In this document, the Federal Communications Commission (FCC or Commission) adopted a Notice of Proposed Rulemaking (NPRM) that kicks off a process to examine how the Commission can make some of its high-cost mechanisms even more efficient and effective into the future. Ensuring a predictable High-Cost Program for years to come--call it High-Cost Modernization--will provide continuing support for our Build America Agenda, supercharge American leadership in Artificial Intelligence (AI) by efficiently supporting the broadband-capable networks upon which AI-enhanced applications and services will"
+    },
+    {
+      "title": "Standards Participation and Representation Kudos (SPARK) Pilot Program",
+      "date": "2026-06-03",
+      "url": "https://www.federalregister.gov/documents/2026/06/03/2026-11098/standards-participation-and-representation-kudos-spark-pilot-program",
+      "type": "Notice",
+      "agency": "Commerce Department, Patent and Trademark Office",
+      "abstract": "The United States Patent and Trademark Office (USPTO) is launching the Standards Participation and Representation Kudos (SPARK) Pilot Program to incentivize meaningful participation in standards development organizations (SDOs) by U.S. small and medium-sized businesses, universities, and non-profit organizations. Under the pilot program, examination of certain patent applications and ex parte appeals to the Patent Trial and Appeal Board (PTAB) may be expedited if the U.S.-domiciled juristic applicant meaningfully participated in a voluntary consensus-based SDO and meets the requirements specif"
+    },
+    {
+      "title": "NIST Artificial Intelligence Consortium",
+      "date": "2026-05-29",
+      "url": "https://www.federalregister.gov/documents/2026/05/29/2026-10779/nist-artificial-intelligence-consortium",
+      "type": "Notice",
+      "agency": "Commerce Department, National Institute of Standards and Technology",
+      "abstract": "The National Institute of Standards and Technology (NIST), an agency of the United States Department of Commerce, previously announced the formation of the Artificial Intelligence Safety Institute Consortium (\"AISIC\") through a publication dated November 2, 2023 (88 FR 75276). AISIC brought together more than 280 organizations to develop science-based and empirically backed guidelines and standards for artificial intelligence (AI) measurement, laying a foundation for global AI metrology. Through this succeeding notice, NIST is announcing the retitling of AISIC as the NIST Artificial Intelligen"
+    },
+    {
+      "title": "Accountability in Higher Education and Access Through Demand-Driven Workforce Pell: Pell Grant Exclusion Relating to Other Grant Aid; and Workforce Pell Grants",
+      "date": "2026-05-19",
+      "url": "https://www.federalregister.gov/documents/2026/05/19/2026-10013/accountability-in-higher-education-and-access-through-demand-driven-workforce-pell-pell-grant",
+      "type": "Rule",
+      "agency": "Education Department",
+      "abstract": "The Secretary of Education (Secretary) amends the regulations governing institutional eligibility, general provisions, and the Federal Pell Grant (Pell Grant) Program under title IV of the Higher Education Act (HEA) of 1965, as amended (the title IV, HEA programs). The final regulations implement statutory changes to the title IV, HEA programs included in the Working Families Tax Cuts Act (WFTCA), signed into law by President Trump on July 4, 2025. In the NPRM, we referenced the WFTCA as the \"One Big Beautiful Bill\"; however, for clarity and consistency in this final rule, we will instead use "
+    },
+    {
+      "title": "Implementing the Guiding and Establishing National Innovation for U.S. Stablecoins Act for the Issuance of Stablecoins by Entities Subject to the Jurisdiction of the National Credit Union Administration",
+      "date": "2026-05-18",
+      "url": "https://www.federalregister.gov/documents/2026/05/18/2026-09915/implementing-the-guiding-and-establishing-national-innovation-for-us-stablecoins-act-for-the",
+      "type": "Proposed Rule",
+      "agency": "National Credit Union Administration",
+      "abstract": "The NCUA Board (Board) is seeking comment on proposed regulations to implement portions of the Guiding and Establishing National Innovation for U.S. Stablecoins Act (GENIUS Act). The GENIUS Act charges the NCUA with licensing, regulating, and supervising Payment Stablecoin issuers that are subsidiaries of federally insured credit unions (FICU subsidiaries). In February 2026, the NCUA issued proposed regulations to govern investments in and licensing of permitted payment stablecoin issuers subject to the NCUA's jurisdiction. This current proposal supplements the previous proposal and would gove"
+    },
+    {
+      "title": "Concept Release on Consolidated Audit Trail and Other Audit Trails and Data Sources",
+      "date": "2026-04-20",
+      "url": "https://www.federalregister.gov/documents/2026/04/20/2026-07651/concept-release-on-consolidated-audit-trail-and-other-audit-trails-and-data-sources",
+      "type": "Proposed Rule",
+      "agency": "Securities and Exchange Commission",
+      "abstract": "The Securities and Exchange Commission (the \"Commission\") is publishing this concept release to solicit comments in support of a comprehensive review of the Consolidated Audit Trail and other audit trails and related data sources currently used in the regulation of U.S. securities markets, including comments regarding the funding mechanisms for these audit trails and/or related data sources. There have been several developments since the Commission last evaluated the scope and sufficiency of these audit trails and related data sources. These developments have prompted the Commission to conside"
+    },
+    {
+      "title": "Medicare Program; Hospital Inpatient Prospective Payment Systems for Acute Care Hospitals (IPPS) and the Long-Term Care Hospital Prospective Payment System and Policy Changes and Fiscal Year (FY) 2027 Rates; Requirements for Quality Programs; and Other Policy Changes",
+      "date": "2026-04-14",
+      "url": "https://www.federalregister.gov/documents/2026/04/14/2026-07203/medicare-program-hospital-inpatient-prospective-payment-systems-for-acute-care-hospitals-ipps-and",
+      "type": "Proposed Rule",
+      "agency": "Health and Human Services Department, Centers for Medicare & Medicaid Services",
+      "abstract": "This proposed rule would revise the Medicare hospital inpatient prospective payment systems (IPPS) for operating and capital- related costs of acute care hospitals; make changes relating to Medicare graduate medical education (GME) for teaching hospitals; update the payment policies and the annual payment rates for the Medicare prospective payment system (PPS) for inpatient hospital services provided by long-term care hospitals (LTCHs); update and make changes to requirements for certain quality programs; and make other policy-related changes."
+    },
+    {
+      "title": "Notice of Open Public Hearing",
+      "date": "2026-04-14",
+      "url": "https://www.federalregister.gov/documents/2026/04/14/2026-07180/notice-of-open-public-hearing",
+      "type": "Notice",
+      "agency": "U.S.-China Economic and Security Review Commission",
+      "abstract": "Notice is hereby given of the following hearing of the U.S.- China Economic and Security Review Commission. The Commission is mandated by Congress to investigate, assess, and report to Congress annually on \"the national security implications of the economic relationship between the United States and the People's Republic of China.\" Pursuant to this mandate, the Commission will hold a public hearing in Washington, DC on April 30, 2026 on \"Taking a Bigger Byte: China's Expanding Strategy for Data Dominance.\""
+    },
+    {
+      "title": "Final Priority and Definitions-Secretary's Supplemental Priority and Definitions on Advancing Artificial Intelligence in Education",
+      "date": "2026-04-13",
+      "url": "https://www.federalregister.gov/documents/2026/04/13/2026-07087/final-priority-and-definitions-secretarys-supplemental-priority-and-definitions-on-advancing",
+      "type": "Rule",
+      "agency": "Education Department",
+      "abstract": "The Department of Education (Department) announces one priority and related definitions for use in currently authorized discretionary grant programs or programs that may be authorized in the future. The Secretary may choose to use an entire priority for a grant program or a particular competition or use one or more of the priority's component parts. This priority and definitions augment the initial set of three Secretary's Supplemental Priorities on Evidence- Based Literacy, Educational Choice, and Returning Education to the States published as final priorities on September 9, 2025; the additi"
+    },
+    {
+      "title": "American AI Exports Program; Call for Proposals for Pre-Set Consortia",
+      "date": "2026-04-10",
+      "url": "https://www.federalregister.gov/documents/2026/04/10/2026-06952/american-ai-exports-program-call-for-proposals-for-pre-set-consortia",
+      "type": "Notice",
+      "agency": "Commerce Department, International Trade Administration",
+      "abstract": "The Department of Commerce (the Department), through the International Trade Administration (ITA), invites proposals for full- stack American AI export packages from industry-led `pre-set' consortia for designation under the American Artificial Intelligence (AI) Exports Program (the Program) established pursuant to Executive Order 14320, \"Promoting the Export of the American AI Technology Stack.\" A designated package will be presented by U.S. Government representatives as a standing, full-stack American AI export package and may receive priority government advocacy, export licensing review and"
+    },
+    {
+      "title": "Medicare Program; Contract Year 2027 and Certain Contract Year 2026 Policy and Technical Changes to the Medicare Advantage Program, Medicare Prescription Drug Benefit Program, and Medicare Cost Plan Program",
+      "date": "2026-04-06",
+      "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06600/medicare-program-contract-year-2027-and-certain-contract-year-2026-policy-and-technical-changes-to",
+      "type": "Rule",
+      "agency": "Health and Human Services Department, Centers for Medicare & Medicaid Services",
+      "abstract": "This final rule revises the Medicare Advantage (Part C), Medicare Prescription Drug Benefit (Part D), and Medicare cost plan regulations to implement changes related to Star Ratings, marketing and communications, drug coverage, enrollment processes, special needs plans, and other programmatic areas."
+    },
+    {
+      "title": "Statement of Organization, Functions, and Delegations of Authority",
+      "date": "2026-04-03",
+      "url": "https://www.federalregister.gov/documents/2026/04/03/2026-06549/statement-of-organization-functions-and-delegations-of-authority",
+      "type": "Notice",
+      "agency": "Health and Human Services Department, ",
+      "abstract": "The Department of Health and Human Services (HHS) is issuing this notice to revise its Statement of Organization, Functions, and Delegations of Authority for the Office of the Secretary (OS). This reorganization removes the Office of the Chief Information Officer (OCIO) from the organizational description for the Office of the Assistant Secretary for Administration (ASA), and establishes the OCIO as a stand-alone organization that reports directly to the Secretary and Deputy Secretary. These changes supersede the OCIO-related organizational language contained in the notice published at 74 FR 5"
+    },
+    {
+      "title": "Risk-Informed, Technology-Inclusive Regulatory Framework for Advanced Reactors",
+      "date": "2026-03-30",
+      "url": "https://www.federalregister.gov/documents/2026/03/30/2026-06048/risk-informed-technology-inclusive-regulatory-framework-for-advanced-reactors",
+      "type": "Rule",
+      "agency": "Nuclear Regulatory Commission",
+      "abstract": "The U.S. Nuclear Regulatory Commission (NRC) is amending its regulations by adding a risk-informed, performance-based, and technology-inclusive regulatory framework for commercial nuclear plants in response to the Nuclear Energy Innovation and Modernization Act (NEIMA). The current application and licensing requirements were primarily developed to address license requests concerning light water- cooled reactors and operational requirements for those types of reactors. This final rule responds to NEIMA by creating an alternative, technology-inclusive regulatory framework to accommodate licensin"
+    },
+    {
+      "title": "Order No. 918; Critical Infrastructure Protection Reliability Standard CIP-003-11-Cyber Security-Security Management Controls",
+      "date": "2026-03-24",
+      "url": "https://www.federalregister.gov/documents/2026/03/24/2026-05711/order-no-918-critical-infrastructure-protection-reliability-standard-cip-003-11-cyber",
+      "type": "Rule",
+      "agency": "Energy Department, Federal Energy Regulatory Commission",
+      "abstract": "The Federal Energy Regulatory Commission (Commission) approves the proposed Critical Infrastructure Protection (CIP) Reliability Standard CIP-003-11 (Cyber Security--Security Management Controls). The North American Electric Reliability Corporation (NERC), the Commission- certified Electric Reliability Organization (ERO), submitted the proposed Reliability Standard to mitigate risks posed by a coordinated cyberattack on low-impact facilities, the aggregate impact of which could be much greater."
+    },
+    {
+      "title": "Administrative Simplification; Adoption of Standards for Health Care Claims Attachments Transactions and Electronic Signatures",
+      "date": "2026-03-24",
+      "url": "https://www.federalregister.gov/documents/2026/03/24/2026-05676/administrative-simplification-adoption-of-standards-for-health-care-claims-attachments-transactions",
+      "type": "Rule",
+      "agency": "Health and Human Services Department, ",
+      "abstract": "This final rule implements requirements of the Administrative Simplification subtitle of the Health Insurance Portability and Accountability Act of 1996 (HIPAA), and the Patient Protection and Affordable Care Act, as amended by the Health Care and Education Reconciliation Act of 2010, enacted on March 30, 2010--collectively, the Affordable Care Act. Specifically, this final rule adopts standards for health care claims attachments transactions, which will support health care claims transactions, and a standard for electronic signatures to be used in conjunction with health care claims attachmen"
+    },
+    {
+      "title": "Federal Acquisition Regulation: Prohibition on Certain Semiconductor Products and Services",
+      "date": "2026-02-17",
+      "url": "https://www.federalregister.gov/documents/2026/02/17/2026-03065/federal-acquisition-regulation-prohibition-on-certain-semiconductor-products-and-services",
+      "type": "Proposed Rule",
+      "agency": "Management and Budget Office, Federal Procurement Policy Office, Defense Department, General Services Administration, National Aeronautics and Space Administration",
+      "abstract": "OFPP, DoD, GSA, and NASA (collectively referred to as the Federal Acquisition Regulatory Council, or FAR Council) are proposing to amend the Federal Acquisition Regulation (FAR) to partially implement a section of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 which prohibits executive agencies from procuring or obtaining certain products and services that include covered semiconductor products or services effective December 23, 2027."
+    },
+    {
+      "title": "Office of the Assistant Secretary for Research and Technology; Request for Information-Research To Support Establishing a National Strategy for Transportation Digital Infrastructure",
+      "date": "2026-02-04",
+      "url": "https://www.federalregister.gov/documents/2026/02/04/2026-02236/office-of-the-assistant-secretary-for-research-and-technology-request-for-information-research-to",
+      "type": "Notice",
+      "agency": "Transportation Department",
+      "abstract": "The U.S. Department of Transportation (U.S. DOT), Office of the Assistant Secretary for Research and Technology (OST-R), is seeking information from the public, industry, technology developers, State, local, and tribal transportation agencies, researchers, and other stakeholders. The focus of this request is to seek public and stakeholder input on the research and development activities needed to modernize the nation's transportation system through the application of digital infrastructure at scale. Responses will inform a coordinated national strategy for the development and deployment of Tra"
+    },
+    {
+      "title": "Adjusting Imports of Semiconductors, Semiconductor Manufacturing Equipment, and Their Derivative Products Into the United States",
+      "date": "2026-01-20",
+      "url": "https://www.federalregister.gov/documents/2026/01/20/2026-01052/adjusting-imports-of-semiconductors-semiconductor-manufacturing-equipment-and-their-derivative",
+      "type": "Presidential Document",
+      "agency": "Executive Office of the President",
+      "abstract": ""
+    },
+    {
+      "title": "Privacy Act of 1974; System of Records",
+      "date": "2026-01-09",
+      "url": "https://www.federalregister.gov/documents/2026/01/09/2026-00250/privacy-act-of-1974-system-of-records",
+      "type": "Notice",
+      "agency": "Postal Service",
+      "abstract": "The United States Postal Service (USPS) is proposing to revise two Privacy Act Systems of Records. These updates are being made to streamline USPS' policy creation and review process, to enhance USPS' capacity for oversight and security in their eCommerce environments, and to support enhanced USPS IT search services."
+    },
+    {
+      "title": "Request for Information Regarding Security Considerations for Artificial Intelligence Agents",
+      "date": "2026-01-08",
+      "url": "https://www.federalregister.gov/documents/2026/01/08/2026-00206/request-for-information-regarding-security-considerations-for-artificial-intelligence-agents",
+      "type": "Notice",
+      "agency": "Commerce Department, National Institute of Standards and Technology",
+      "abstract": "The Center for AI Standards and Innovation (CAISI), housed within the National Institute of Standards and Technology (NIST) at the Department of Commerce, is seeking information and insights from stakeholders on practices and methodologies for measuring and improving the secure development and deployment of artificial intelligence (AI) agent systems. AI agent systems are capable of taking autonomous actions that impact real-world systems or environments, and may be susceptible to hijacking, backdoor attacks, and other exploits. If left unchecked, these security risks may impact public safety, "
+    },
+    {
+      "title": "Weighted Selection Process for Registrants and Petitioners Seeking To File Cap-Subject H-1B Petitions",
+      "date": "2025-12-29",
+      "url": "https://www.federalregister.gov/documents/2025/12/29/2025-23853/weighted-selection-process-for-registrants-and-petitioners-seeking-to-file-cap-subject-h-1b",
+      "type": "Rule",
+      "agency": "Homeland Security Department",
+      "abstract": "The U.S. Department of Homeland Security (DHS) is amending its regulations governing the process by which U.S. Citizenship and Immigration Services (USCIS) selects H-1B registrations for unique beneficiaries for filing of H-1B cap-subject petitions (or H-1B petitions for any year in which the registration requirement is suspended). Through this rule, DHS is implementing a weighted selection process that will generally favor the allocation of H-1B visas to higher-skilled and higher-paid aliens, while maintaining the opportunity for employers to secure H-1B workers at all wage levels, to better "
+    },
+    {
+      "title": "Wireless Emergency Alerts and the Emergency Alert System",
+      "date": "2025-12-10",
+      "url": "https://www.federalregister.gov/documents/2025/12/10/2025-22434/wireless-emergency-alerts-and-the-emergency-alert-system",
+      "type": "Rule",
+      "agency": "Federal Communications Commission",
+      "abstract": "In this document, as directed by the Federal Communications Commission (Commission), the Public Safety and Homeland Security Bureau (Bureau) adopts implementation parameters for multilingual Wireless Emergency Alerts (WEA). The Bureau is requiring commercial mobile service providers who participate in WEA (Participating CMS Providers) to support multilingual templates for the most commonly issued and most time-sensitive types of alerts in English, the next thirteen most commonly spoken languages in the United States, and American Sign Language (ASL). The non-ASL templates must be customizable "
+    },
+    {
+      "title": "Information Security and Privacy Advisory Board",
+      "date": "2025-12-03",
+      "url": "https://www.federalregister.gov/documents/2025/12/03/2025-21825/information-security-and-privacy-advisory-board",
+      "type": "Notice",
+      "agency": "Commerce Department, National Institute of Standards and Technology",
+      "abstract": "National Institute of Standards and Technology (NIST)'s Information Security and Privacy Advisory Board (ISPAB) will hold an open meeting on Wednesday, January 21, 2026, from 10:00 a.m. until 4:30 p.m., Eastern Time and Thursday, January 22, 2026, from 10:00 a.m. until 4:30 p.m., Eastern Time."
+    },
+    {
+      "title": "Medicare and Medicaid Programs; Calendar Year 2026 Home Health Prospective Payment System (HH PPS) Rate Update; Requirements for the HH Quality Reporting Program and the HH Value-Based Purchasing Expanded Model; Durable Medical Equipment, Prosthetics, Orthotics, and Supplies (DMEPOS) Competitive Bidding Program Updates; DMEPOS Accreditation Requirements; Provider Enrollment; and Other Medicare and Medicaid Policies",
+      "date": "2025-12-02",
+      "url": "https://www.federalregister.gov/documents/2025/12/02/2025-21767/medicare-and-medicaid-programs-calendar-year-2026-home-health-prospective-payment-system-hh-pps-rate",
+      "type": "Rule",
+      "agency": "Health and Human Services Department, Centers for Medicare & Medicaid Services",
+      "abstract": "This final rule sets forth routine updates to the Medicare home health payment rates in accordance with existing statutory and regulatory requirements. In addition, this final rule finalizes permanent and temporary behavior adjustments and recalibrates the case- mix weights and update the functional impairment levels; comorbidity subgroups; and low-utilization payment adjustment (LUPA) thresholds for CY 2026. This final rule also finalizes changes to the face-to-face encounter policy and changes to the Home Health Quality Reporting Program (HH QRP) and the expanded Health Value-Based Purchasin"
+    },
+    {
+      "title": "Launching the Genesis Mission",
+      "date": "2025-11-28",
+      "url": "https://www.federalregister.gov/documents/2025/11/28/2025-21665/launching-the-genesis-mission",
+      "type": "Presidential Document",
+      "agency": "Executive Office of the President",
+      "abstract": ""
+    },
+    {
+      "title": "Notice of Funding Availability for Credit Assistance Under the State Infrastructure Financing Authority Water Infrastructure Finance and Innovation Act (SWIFIA) Program",
+      "date": "2025-11-28",
+      "url": "https://www.federalregister.gov/documents/2025/11/28/2025-21447/notice-of-funding-availability-for-credit-assistance-under-the-state-infrastructure-financing",
+      "type": "Notice",
+      "agency": "Environmental Protection Agency",
+      "abstract": "The purpose of this notice of funding availability (NOFA) is to solicit letters of interest (LOIs) from prospective state infrastructure financing authority borrowers seeking credit assistance from the U.S. Environmental Protection Agency (EPA) under the State Infrastructure Financing Authority Water Infrastructure Finance and Innovation Act (SWIFIA) program. EPA's SWIFIA program is managed by the WIFIA division and operates under the authority of the WIFIA statute. EPA estimates that it may lend approximately $550 million to help finance over $1 billion in water infrastructure investment to s"
+    },
+    {
+      "title": "Notice of Funding Availability for Credit Assistance Under the Water Infrastructure Finance and Innovation Act (WIFIA) Program",
+      "date": "2025-11-28",
+      "url": "https://www.federalregister.gov/documents/2025/11/28/2025-21446/notice-of-funding-availability-for-credit-assistance-under-the-water-infrastructure-finance-and",
+      "type": "Notice",
+      "agency": "Environmental Protection Agency",
+      "abstract": "The purpose of this notice of funding availability (NOFA) is to solicit letters of interest (LOIs) from prospective borrowers seeking credit assistance from the U.S. Environmental Protection Agency (EPA) under the Water Infrastructure Finance and Innovation Act (WIFIA) program. EPA estimates that it may lend approximately $6.5 billion to help finance $13 billion in water infrastructure investment."
+    },
+    {
+      "title": "Medicare Program: Hospital Outpatient Prospective Payment and Ambulatory Surgical Center Payment Systems; Quality Reporting Programs; Overall Hospital Quality Star Rating; Hospital Price Transparency; and Notice of Closure of a Teaching Hospital and Opportunity To Apply for Available Slots",
+      "date": "2025-11-25",
+      "url": "https://www.federalregister.gov/documents/2025/11/25/2025-20907/medicare-program-hospital-outpatient-prospective-payment-and-ambulatory-surgical-center-payment",
+      "type": "Rule",
+      "agency": "Health and Human Services Department, Centers for Medicare & Medicaid Services, ",
+      "abstract": "This final rule with comment period revises the Medicare Hospital Outpatient Prospective Payment System (OPPS) and the Medicare Ambulatory Surgical Center (ASC) payment system for calendar year 2026 based on our continuing experience with these systems. We also describe the changes to the amounts and factors used to determine the payment rates for Medicare services paid under the OPPS and those paid under the ASC payment systems. In addition, this final rule with comment period announces the closure of a teaching hospital and the opportunity to apply for available slots, and updates and refine"
+    },
+    {
+      "title": "Medicare and Medicaid Programs; CY 2026 Payment Policies Under the Physician Fee Schedule and Other Changes to Part B Payment and Coverage Policies; Medicare Shared Savings Program Requirements; and Medicare Prescription Drug Inflation Rebate Program",
+      "date": "2025-11-05",
+      "url": "https://www.federalregister.gov/documents/2025/11/05/2025-19787/medicare-and-medicaid-programs-cy-2026-payment-policies-under-the-physician-fee-schedule-and-other",
+      "type": "Rule",
+      "agency": "Health and Human Services Department, Centers for Medicare & Medicaid Services",
+      "abstract": "This major final rule addresses: changes to the physician fee schedule (PFS); other changes to Medicare Part B payment policies to ensure that payment systems are updated to reflect changes in medical practice, relative value of services, and changes in the statute; codification of establishment of new policies for: the Medicare Prescription Drug Inflation Rebate Program under the Inflation Reduction Act of 2022; the Ambulatory Specialty Model; updates to the Medicare Diabetes Prevention Program expanded model; updates to drugs and biological products paid under Part B; Medicare Shared Savings"
+    },
+    {
+      "title": "Grant Guideline; Notice",
+      "date": "2025-10-27",
+      "url": "https://www.federalregister.gov/documents/2025/10/27/2025-19664/grant-guideline-notice",
+      "type": "Notice",
+      "agency": "State Justice Institute",
+      "abstract": "This guideline sets forth the administrative, programmatic, and financial requirements attendant to FY 2026 State Justice Institute grants."
+    },
+    {
+      "title": "Review of Submarine Cable Landing License Rules and Procedures To Assess Evolving National Security, Law Enforcement, Foreign Policy, and Trade Policy Risks",
+      "date": "2025-10-27",
+      "url": "https://www.federalregister.gov/documents/2025/10/27/2025-19658/review-of-submarine-cable-landing-license-rules-and-procedures-to-assess-evolving-national-security",
+      "type": "Rule",
+      "agency": "Federal Communications Commission",
+      "abstract": "In this document, the Federal Communications Commission (Commission or FCC) adopted a Report and Order that updates the Commission's submarine cable licensing process and adopts rule changes to protect critical U.S. communications infrastructure against foreign adversary threats, specifically those posed by an entity that is owned by, controlled by, or subject to the jurisdiction or direction of a foreign adversary. The Report and Order adopts a requirement for certain licensees to file an annual report about the licensee, submarine cable system ownership, and submarine cable operations. The R"
+    },
+    {
+      "title": "Review of Submarine Cable Landing License Rules and Procedures To Assess Evolving National Security, Law Enforcement, Foreign Policy, and Trade Policy Risks",
+      "date": "2025-10-27",
+      "url": "https://www.federalregister.gov/documents/2025/10/27/2025-19657/review-of-submarine-cable-landing-license-rules-and-procedures-to-assess-evolving-national-security",
+      "type": "Proposed Rule",
+      "agency": "Federal Communications Commission",
+      "abstract": "In this document, the Federal Communications Commission (Commission or FCC) adopted a Further Notice of Proposed Rulemaking (FNPRM) that proposes to prevent national security risks from current and potential foreign adversaries, while encouraging the use of trusted technology and measures to further accelerate the buildout of submarine cables. The FNPRM proposes a regulatory framework that would grant a blanket license to entities that own or operate Submarine Line Terminal Equipment (SLTEs), subject to certain exclusions and routine conditions, such as a tailored foreign adversary annual repo"
+    },
+    {
+      "title": "2025 Community Development Revolving Loan Fund",
+      "date": "2025-10-01",
+      "url": "https://www.federalregister.gov/documents/2025/10/01/2025-19091/2025-community-development-revolving-loan-fund",
+      "type": "Notice",
+      "agency": "National Credit Union Administration",
+      "abstract": "NCUA is issuing this Notice of Funding Opportunity (NOFO) to announce the availability of funding for technical assistance grants for low-income-designated credit unions (LIDs) through the Community Development Revolving Loan Fund (CDRLF). The CDRLF provides financial support that helps credit unions support the communities in which they operate."
+    },
+    {
+      "title": "Regulatory Flexibility Agenda",
+      "date": "2025-09-22",
+      "url": "https://www.federalregister.gov/documents/2025/09/22/2025-18321/regulatory-flexibility-agenda",
+      "type": "Notice",
+      "agency": "Securities and Exchange Commission",
+      "abstract": "The Securities and Exchange Commission is publishing the Chairman's agenda of rulemaking actions pursuant to the Regulatory Flexibility Act (\"RFA\") (Pub. L. 96-354, 94 Stat. 1164) (Sept. 19, 1980). The items listed in the Regulatory Flexibility Agenda for Spring 2025 reflect only the priorities of the Chairman of the U.S. Securities and Exchange Commission, and do not necessarily reflect the views and priorities of any individual Commissioner. Information in the agenda was accurate on June 27, 2025, the date on which the Commission's staff completed compilation of the data. To the extent possi"
+    },
+    {
+      "title": "Unified Agenda of Federal Regulatory and Deregulatory Actions-Spring 2025",
+      "date": "2025-09-22",
+      "url": "https://www.federalregister.gov/documents/2025/09/22/2025-18318/unified-agenda-of-federal-regulatory-and-deregulatory-actions-spring-2025",
+      "type": "Notice",
+      "agency": "Federal Communications Commission",
+      "abstract": "Pursuant to the Regulatory Flexibility Act (RFA; 5 U.S.C 601- 612) the Federal Communications Commission is required to publish a regulatory flexibility agenda twice-yearly in the Federal Register describing any regulatory proceedings under development or review which are likely to have a significant economic impact on a substantial number of small entities. 5 U.S.C. 602. In addition, Executive Order 12866, Regulatory Planning and Review (Sep. 30, 1993), requires each agency to publish, twice yearly, a regulatory agenda (Agenda) of regulations under development or review during the next year w"
+    },
+    {
+      "title": "Information Security and Privacy Advisory Board",
+      "date": "2025-09-19",
+      "url": "https://www.federalregister.gov/documents/2025/09/19/2025-18229/information-security-and-privacy-advisory-board",
+      "type": "Notice",
+      "agency": "Commerce Department, National Institute of Standards and Technology",
+      "abstract": "National Institute of Standards and Technology (NIST)'s Information Security and Privacy Advisory Board (ISPAB) will hold an open meeting on Wednesday, October 22, 2025, from 10:00 a.m. until 4:30 p.m., Eastern Time and Thursday, October 23, 2025, from 10:00 a.m. until 4:30 p.m., Eastern Time."
+    },
+    {
+      "title": "Final Priorities and Definitions-Secretary's Supplemental Priorities and Definitions on Evidence-Based Literacy, Education Choice, and Returning Education to the States",
+      "date": "2025-09-09",
+      "url": "https://www.federalregister.gov/documents/2025/09/09/2025-17310/final-priorities-and-definitions-secretarys-supplemental-priorities-and-definitions-on",
+      "type": "Rule",
+      "agency": "Education Department",
+      "abstract": "The Department of Education (Department) announces three priorities and related definitions for use in currently authorized discretionary grant programs or programs that may be authorized in the future. The Secretary may choose to use an entire priority for a grant program or a particular competition or use one or more of the priority's component parts. These priorities and definitions replace the Secretary's supplemental priorities published in the Federal Register on December 10, 2021 (86 FR 70612) and all other agency-wide supplemental priorities published prior to January 20, 2025."
+    },
+    {
+      "title": "Request for Comment on Innovative Methods To Detect Illicit Activity Involving Digital Assets",
+      "date": "2025-08-18",
+      "url": "https://www.federalregister.gov/documents/2025/08/18/2025-15697/request-for-comment-on-innovative-methods-to-detect-illicit-activity-involving-digital-assets",
+      "type": "Notice",
+      "agency": "Treasury Department",
+      "abstract": "The U.S. Department of the Treasury invites interested members of the public to provide input on the use of innovative or novel methods, techniques, or strategies to detect and mitigate illicit finance risks involving digital assets. This notice fulfills a requirement of the Guiding and Establishing National Innovation for U.S. Stablecoins Act (GENIUS Act) and supports the Administration's policy of supporting the responsible growth and use of digital assets, as outlined in the January 23, 2025, Executive Order 14178 on \"Strengthening American Leadership in Digital Financial Technology.\""
+    },
+    {
+      "title": "Normalizing Unmanned Aircraft Systems Beyond Visual Line of Sight Operations",
+      "date": "2025-08-07",
+      "url": "https://www.federalregister.gov/documents/2025/08/07/2025-14992/normalizing-unmanned-aircraft-systems-beyond-visual-line-of-sight-operations",
+      "type": "Proposed Rule",
+      "agency": "Transportation Department, Federal Aviation Administration, Homeland Security Department, Transportation Security Administration",
+      "abstract": "This action proposes performance-based regulations to enable the design and operation of unmanned aircraft systems (UAS) at low altitudes beyond visual line of sight (BVLOS) and for third-party services, including UAS Traffic Management (UTM), that support these operations. The FAA Reauthorization Act of 2024 directs the development of this proposed rule. This proposed rule is necessary to support the integration of UAS into the national airspace system (NAS). This proposed rule is intended to provide a predictable and clear pathway for safe, routine, and scalable UAS operations that include p"
+    },
+    {
+      "title": "Medicare Program; Hospital Inpatient Prospective Payment Systems for Acute Care Hospitals (IPPS) and the Long-Term Care Hospital Prospective Payment System and Policy Changes and Fiscal Year (FY) 2026 Rates; Changes to the FY 2025 IPPS Rates Due to Court Decision; Requirements for Quality Programs; and Other Policy Changes; Health Data, Technology, and Interoperability: Electronic Prescribing, Real-Time Prescription Benefit and Electronic Prior Authorization",
+      "date": "2025-08-04",
+      "url": "https://www.federalregister.gov/documents/2025/08/04/2025-14681/medicare-program-hospital-inpatient-prospective-payment-systems-for-acute-care-hospitals-ipps-and",
+      "type": "Rule",
+      "agency": "Health and Human Services Department, Centers for Medicare & Medicaid Services, ",
+      "abstract": "This final rule revises the Medicare hospital inpatient prospective payment systems (IPPS) for operating and capital-related costs of acute care hospitals; makes changes relating to Medicare graduate medical education (GME) for teaching hospitals; updates the payment policies and the annual payment rates for the Medicare prospective payment system (PPS) for inpatient hospital services provided by long-term care hospitals (LTCHs); updates and makes changes to requirements for certain quality programs; and makes other policy- related changes. We are also finalizing the provisions of the interim "
+    },
+    {
+      "title": "Medicare and Medicaid Programs; CY 2026 Payment Policies Under the Physician Fee Schedule and Other Changes to Part B Payment and Coverage Policies; Medicare Shared Savings Program Requirements; and Medicare Prescription Drug Inflation Rebate Program",
+      "date": "2025-07-16",
+      "url": "https://www.federalregister.gov/documents/2025/07/16/2025-13271/medicare-and-medicaid-programs-cy-2026-payment-policies-under-the-physician-fee-schedule-and-other",
+      "type": "Proposed Rule",
+      "agency": "Health and Human Services Department, Centers for Medicare & Medicaid Services",
+      "abstract": "This major proposed rule addresses: changes to the physician fee schedule (PFS); other changes to Medicare Part B payment policies to ensure that payment systems are updated to reflect changes in medical practice, relative value of services, and changes in the statute; codification of establishment of new policies for: the Medicare Prescription Drug Inflation Rebate Program under the Inflation Reduction Act of 2022; the Ambulatory Specialty Model; updates to the Medicare Diabetes Prevention Program expanded model; updates to drugs and biological products paid under Part B; Medicare Shared Savi"
+    },
+    {
+      "title": "Request for Information on Key Technology Focus Areas for the National Science Foundation's Directorate for Technology, Innovation and Partnerships",
+      "date": "2025-06-20",
+      "url": "https://www.federalregister.gov/documents/2025/06/20/2025-11374/request-for-information-on-key-technology-focus-areas-for-the-national-science-foundations",
+      "type": "Notice",
+      "agency": "National Science Foundation",
+      "abstract": "The U.S. National Science Foundation seeks input from academia, non-profits, philanthropy, state and local government, venture capital, the private sector and any other interested parties to inform the agency's assessment and potential update of the Key Technology Focus Areas as described in Public Law 117-167 (Research and Development, Competition, and Innovation Act.)"
+    },
+    {
+      "title": "NTIA Listening Session on Bolstering Data Center Growth, Resilience and Security",
+      "date": "2025-06-17",
+      "url": "https://www.federalregister.gov/documents/2025/06/17/2025-11170/ntia-listening-session-on-bolstering-data-center-growth-resilience-and-security",
+      "type": "Notice",
+      "agency": "Commerce Department, National Telecommunications and Information Administration",
+      "abstract": "The National Telecommunications and Information Administration (NTIA) will convene a virtual listening session on Bolstering Data Center Growth, Resilience and Security. This session will build upon NTIA's previous request for comment (RFC) and serve as an important opportunity to \"refresh the docket\" with the latest market analysis, feedback, and data. Stakeholder input will be used to inform a forthcoming NTIA report outlining challenges and opportunities to data center growth, resilience and security, as well as a targeted, actionable menu of policy recommendations."
+    },
+    {
+      "title": "United States v. Keysight Technologies Inc., et al.; Proposed Final Judgment and Competitive Impact Statement",
+      "date": "2025-06-12",
+      "url": "https://www.federalregister.gov/documents/2025/06/12/2025-10536/united-states-v-keysight-technologies-inc-et-al-proposed-final-judgment-and-competitive-impact",
+      "type": "Notice",
+      "agency": "Justice Department, Antitrust Division",
+      "abstract": ""
+    },
+    {
+      "title": "Sustaining Select Efforts To Strengthen the Nation's Cybersecurity and Amending Executive Order 13694 and Executive Order 14144",
+      "date": "2025-06-11",
+      "url": "https://www.federalregister.gov/documents/2025/06/11/2025-10804/sustaining-select-efforts-to-strengthen-the-nations-cybersecurity-and-amending-executive-order-13694",
+      "type": "Presidential Document",
+      "agency": "Executive Office of the President",
+      "abstract": ""
+    },
+    {
+      "title": "Senior Executive Service Positions That Were Career Reserved During Calendar Year 2024",
+      "date": "2025-05-20",
+      "url": "https://www.federalregister.gov/documents/2025/05/20/2025-08853/senior-executive-service-positions-that-were-career-reserved-during-calendar-year-2024",
+      "type": "Notice",
+      "agency": "Personnel Management Office",
+      "abstract": "This gives notice of all positions in the Senior Executive Service (SES) that were career reserved during calendar year 2024."
+    },
+    {
+      "title": "Request for Information; Health Technology Ecosystem",
+      "date": "2025-05-16",
+      "url": "https://www.federalregister.gov/documents/2025/05/16/2025-08701/request-for-information-health-technology-ecosystem",
+      "type": "Notice",
+      "agency": "Health and Human Services Department, Centers for Medicare & Medicaid Services",
+      "abstract": "Effective and responsible adoption of technology can empower patients to make better decisions for their health and well-being. This request for information (RFI) seeks input from the public regarding the market of digital health products for Medicare beneficiaries as well as the state of data interoperability and broader health technology infrastructure. Responses to this RFI may be used to inform CMS and ASTP/ONC efforts to lead infrastructure progress to cultivate this market, increasing beneficiary access to effective digital capabilities needed to make informed health decisions, and incre"
+    },
+    {
+      "title": "Request for Information Regarding Community Bank Digitalization",
+      "date": "2025-05-12",
+      "url": "https://www.federalregister.gov/documents/2025/05/12/2025-08280/request-for-information-regarding-community-bank-digitalization",
+      "type": "Notice",
+      "agency": "Treasury Department, Comptroller of the Currency",
+      "abstract": "To build on its understanding, OCC is issuing a request for information (RFI) on community bank engagement with digitalization. The RFI solicits comment on the key challenges and barriers faced by community banks in the adoption and implementation of digital banking solutions."
+    },
+    {
+      "title": "Request for Information on the Development of a 2025 National Artificial Intelligence (AI) Research and Development (R&D) Strategic Plan",
+      "date": "2025-04-29",
+      "url": "https://www.federalregister.gov/documents/2025/04/29/2025-07332/request-for-information-on-the-development-of-a-2025-national-artificial-intelligence-ai-research",
+      "type": "Notice",
+      "agency": "National Science Foundation",
+      "abstract": "On behalf of the Office of Science and Technology Policy (OSTP), the Networking and Information Technology Research and Development (NITRD) National Coordination Office (NCO) welcomes input from all interested parties on how the previous administration's National Artificial Intelligence Research and Development Strategic Plan (2023 Update) can be rewritten so that the United States can secure its position as the unrivaled world leader in artificial intelligence by performing R&D to accelerate AI-driven innovation, enhance U.S. economic and national security, promote human flourishing, and main"
+    },
+    {
+      "title": "Children's Online Privacy Protection Rule",
+      "date": "2025-04-22",
+      "url": "https://www.federalregister.gov/documents/2025/04/22/2025-05904/childrens-online-privacy-protection-rule",
+      "type": "Rule",
+      "agency": "Federal Trade Commission",
+      "abstract": "The Federal Trade Commission amends the Children's Online Privacy Protection Rule (the \"Rule\"), consistent with the requirements of the Children's Online Privacy Protection Act. The amendments to the Rule, which are based on the FTC's review of public comments and its enforcement experience, include one new definition and modifications to several others, as well as updates to key provisions to respond to changes in technology and online practices. The amendments are intended to strengthen protection of personal information collected from children, and, where appropriate, to clarify and streaml"
+    },
+    {
+      "title": "Request for Nominations for Members To Serve on National Institute of Standards and Technology and National Technical Information Service Federal Advisory Committees",
+      "date": "2025-04-18",
+      "url": "https://www.federalregister.gov/documents/2025/04/18/2025-06716/request-for-nominations-for-members-to-serve-on-national-institute-of-standards-and-technology-and",
+      "type": "Notice",
+      "agency": "Commerce Department, National Institute of Standards and Technology",
+      "abstract": "The National Institute of Standards and Technology (NIST or Institute) and the National Technical Information Service (NTIS) invites and requests nomination of individuals for appointment to ten existing Federal Advisory Committees (Committees): Advisory Committee on Earthquake Hazards Reduction; Board of Overseers of the Malcolm Baldrige National Quality Award; Industrial Advisory Committee; Information Security and Privacy Advisory Board; Judges Panel of the Malcolm Baldrige National Quality Award; Manufacturing Extension Partnership Advisory Board; National Artificial Intelligence Advisory "
+    },
+    {
+      "title": "Request for Information on Artificial Intelligence Infrastructure on DOE Lands",
+      "date": "2025-04-07",
+      "url": "https://www.federalregister.gov/documents/2025/04/07/2025-05936/request-for-information-on-artificial-intelligence-infrastructure-on-doe-lands",
+      "type": "Notice",
+      "agency": "Energy Department",
+      "abstract": "The United States has long been at the forefront of artificial intelligence (AI) innovation. Maintaining that leadership is a key national and economic security priority. AI infrastructure including data centers is a critical component of the modern economy, enabling AI training and inference, scientific research, and a wide range of other essential services. The U.S. Department of Energy (DOE) is exploring opportunities to leverage its land assets to support the growing demand for AI infrastructure. This aligns with the policy laid out in the executive order signed January 23, 2025, titled \"R"
+    },
+    {
+      "title": "Fee Schedules; Fee Recovery for Fiscal Year 2025",
+      "date": "2025-02-19",
+      "url": "https://www.federalregister.gov/documents/2025/02/19/2025-02779/fee-schedules-fee-recovery-for-fiscal-year-2025",
+      "type": "Proposed Rule",
+      "agency": "Nuclear Regulatory Commission",
+      "abstract": "The U.S. Nuclear Regulatory Commission (NRC) is proposing to amend the licensing, inspection, special project, and annual fees charged to its applicants and licensees. The proposed amendments are necessary to comply with the Nuclear Energy Innovation and Modernization Act, which requires the NRC to recover, to the maximum extent practicable, approximately 100 percent of its annual budget less certain amounts excluded from this fee recovery requirement. In addition, the NRC is proposing amendments to implement a reduced hourly rate for advanced nuclear reactor applicants and pre-applicants for "
+    },
+    {
+      "title": "Request for Information on the Development of an Artificial Intelligence (AI) Action Plan",
+      "date": "2025-02-06",
+      "url": "https://www.federalregister.gov/documents/2025/02/06/2025-02305/request-for-information-on-the-development-of-an-artificial-intelligence-ai-action-plan",
+      "type": "Notice",
+      "agency": "National Science Foundation",
+      "abstract": "On behalf of the Office of Science and Technology Policy (OSTP), the NITRD NCO requests input from all interested parties on the Development of an Artificial Intelligence (AI) Action Plan (\"Plan\"). This Plan, as directed by a Presidential Executive Order on January 23, 2025, will define the priority policy actions needed to sustain and enhance America's AI dominance, and to ensure that unnecessarily burdensome requirements do not hamper private sector AI innovation. Through this Request for Information (RFI), OSTP and NITRD NCO seek input from the public, including from academia, industry grou"
+    },
+    {
+      "title": "Ratification of Security Directives",
+      "date": "2025-01-21",
+      "url": "https://www.federalregister.gov/documents/2025/01/21/2025-01422/ratification-of-security-directives",
+      "type": "Rule",
+      "agency": "Homeland Security Department",
+      "abstract": "The Department of Homeland Security (DHS) is publishing official notice that the Transportation Security Oversight Board (TSOB) has ratified Transportation Security Administration (TSA) Security Directive 1580-21-01B, Security Directive 1582-21-01B, Security Directive 1580/82-2022-01A, and Security Directive 1580/82-2022-01C applicable to owners and operators of critical rail entities (owners/ operators). Security Directive 1580-21-01B and Security Directive 1582- 21-01B extended the requirements of 1580-21-01 and 1582-21-01 series for an additional year, with minor revisions. Security Directi"
+    },
+    {
+      "title": "Organization, Functions, and Delegations of Authority; Indian Health Service Headquarters, Office of Information Technology and the Office of Management Services, Part GAG, GAL",
+      "date": "2025-01-21",
+      "url": "https://www.federalregister.gov/documents/2025/01/21/2025-00535/organization-functions-and-delegations-of-authority-indian-health-service-headquarters-office-of",
+      "type": "Notice",
+      "agency": "Health and Human Services Department, Indian Health Service",
+      "abstract": "This Notice advises the public that the Indian Health Service (IHS) proposes Part GAG, GAL, of the Statement of Organization, Functions, and Delegations of Authority of the Department of Health and Human Services (HHS), 47053-67, December 11, 1987, as amended, November 9, 1995, December 19, 1996, as amended July 12, 2004, as amended, May 6, 2005, as amended October 17, 2005, as amended, August 21, 2009, and most recently December 26, 2018, is hereby amended to reflect a reorganization of the Indian Health Service (IHS). The new organizational structure was approved by the Secretary of Health a"
+    },
+    {
+      "title": "Strengthening and Promoting Innovation in the Nation's Cybersecurity",
+      "date": "2025-01-17",
+      "url": "https://www.federalregister.gov/documents/2025/01/17/2025-01470/strengthening-and-promoting-innovation-in-the-nations-cybersecurity",
+      "type": "Presidential Document",
+      "agency": "Executive Office of the President",
+      "abstract": ""
+    },
+    {
+      "title": "Advancing United States Leadership in Artificial Intelligence Infrastructure",
+      "date": "2025-01-17",
+      "url": "https://www.federalregister.gov/documents/2025/01/17/2025-01395/advancing-united-states-leadership-in-artificial-intelligence-infrastructure",
+      "type": "Presidential Document",
+      "agency": "Executive Office of the President",
+      "abstract": ""
+    },
+    {
+      "title": "Cybersecurity in the Marine Transportation System",
+      "date": "2025-01-17",
+      "url": "https://www.federalregister.gov/documents/2025/01/17/2025-00708/cybersecurity-in-the-marine-transportation-system",
+      "type": "Rule",
+      "agency": "Homeland Security Department, Coast Guard",
+      "abstract": "The Coast Guard is updating its maritime security regulations by establishing minimum cybersecurity requirements for U.S.-flagged vessels, Outer Continental Shelf facilities, and facilities subject to the Maritime Transportation Security Act of 2002 regulations. This final rule addresses current and emerging cybersecurity threats in the marine transportation system by adding minimum cybersecurity requirements to help detect risks and respond to and recover from cybersecurity incidents. These include requirements to develop and maintain a Cybersecurity Plan, designate a Cybersecurity Officer, a"
+    },
+    {
+      "title": "Securing the Information and Communications Technology and Services Supply Chain: Connected Vehicles",
+      "date": "2025-01-16",
+      "url": "https://www.federalregister.gov/documents/2025/01/16/2025-00592/securing-the-information-and-communications-technology-and-services-supply-chain-connected-vehicles",
+      "type": "Rule",
+      "agency": "Commerce Department, Industry and Security Bureau",
+      "abstract": "This final rule, published by the Department of Commerce's (Department) Bureau of Industry and Security (BIS), sets forth regulations and procedures to address undue or unacceptable risks to national security and U.S. persons posed by classes of transactions involving information and communications technology and services (ICTS) that are designed, developed, manufactured, or supplied by persons owned by, controlled by, or subject to the jurisdiction or direction of certain foreign adversaries and that are integral to connected vehicles as defined herein."
+    },
+    {
+      "title": "Framework for Artificial Intelligence Diffusion",
+      "date": "2025-01-15",
+      "url": "https://www.federalregister.gov/documents/2025/01/15/2025-00636/framework-for-artificial-intelligence-diffusion",
+      "type": "Rule",
+      "agency": "Commerce Department, Industry and Security Bureau",
+      "abstract": "With this interim final rule, the Commerce Department's Bureau of Industry and Security (BIS) revises the Export Administration Regulations' (EAR) controls on advanced computing integrated circuits (ICs) and adds a new control on artificial intelligence (AI) model weights for certain advanced closed-weight dual-use AI models. In conjunction with the expansion of these controls, which BIS has determined are necessary to protect U.S. national security and foreign policy interests, BIS is adding new license exceptions and updating the Data Center Validated End User authorization to facilitate the"
+    },
+    {
+      "title": "Common Application, Waivers, and Alternative Requirements for Community Development Block Grant Disaster Recovery Grantees: The Universal Notice",
+      "date": "2025-01-08",
+      "url": "https://www.federalregister.gov/documents/2025/01/08/2024-31621/common-application-waivers-and-alternative-requirements-for-community-development-block-grant",
+      "type": "Notice",
+      "agency": "Housing and Urban Development Department",
+      "abstract": "This notice contains a preamble and the Community Development Block Grant Disaster Recovery Universal Notice: Waivers and Alternative Requirements (the \"Universal Notice\"). The Universal Notice describes the processes, procedures, timelines, waivers, and alternative requirements that U.S. Department of Housing and Urban Development (HUD) intends to implement with each allocation of Community Development Block Grant Disaster Recovery (CDBG-DR) funding after a qualifying presidential disaster declaration. Specifically, following the appropriation of CDBG-DR funds for qualifying disasters, HUD wi"
+    },
+    {
+      "title": "Preventing Access to U.S. Sensitive Personal Data and Government-Related Data by Countries of Concern or Covered Persons",
+      "date": "2025-01-08",
+      "url": "https://www.federalregister.gov/documents/2025/01/08/2024-31486/preventing-access-to-us-sensitive-personal-data-and-government-related-data-by-countries-of-concern",
+      "type": "Rule",
+      "agency": "Justice Department",
+      "abstract": "The Department of Justice is issuing a final rule to implement Executive Order 14117 of February 28, 2024 (Preventing Access to Americans' Bulk Sensitive Personal Data and United States Government- Related Data by Countries of Concern), by prohibiting and restricting certain data transactions with certain countries or persons."
+    },
+    {
+      "title": "HIPAA Security Rule To Strengthen the Cybersecurity of Electronic Protected Health Information",
+      "date": "2025-01-06",
+      "url": "https://www.federalregister.gov/documents/2025/01/06/2024-30983/hipaa-security-rule-to-strengthen-the-cybersecurity-of-electronic-protected-health-information",
+      "type": "Proposed Rule",
+      "agency": "Health and Human Services Department, ",
+      "abstract": "The Department of Health and Human Services (HHS or \"Department\") is issuing this notice of proposed rulemaking (NPRM) to solicit comment on its proposal to modify the Security Standards for the Protection of Electronic Protected Health Information (\"Security Rule\") under the Health Insurance Portability and Accountability Act of 1996 (HIPAA) and the Health Information Technology for Economic and Clinical Health Act of 2009 (HITECH Act). The proposed modifications would revise existing standards to better protect the confidentiality, integrity, and availability of electronic protected health i"
+    },
+    {
+      "title": "Securing the Information and Communications Technology and Services Supply Chain: Unmanned Aircraft Systems",
+      "date": "2025-01-03",
+      "url": "https://www.federalregister.gov/documents/2025/01/03/2024-30209/securing-the-information-and-communications-technology-and-services-supply-chain-unmanned-aircraft",
+      "type": "Proposed Rule",
+      "agency": "Commerce Department, Industry and Security Bureau",
+      "abstract": "In this advance notice of proposed rulemaking (ANPRM), the Department of Commerce's Bureau of Industry and Security (BIS) seeks public comment on issues related to transactions involving information and communications technology and services (ICTS) that are designed, developed, manufactured, or supplied by persons owned by, controlled by, or subject to the jurisdiction or direction of foreign adversaries, pursuant to Executive Order (E.O.) 13873, \"Securing the Information and Communications Technology and Services Supply Chain,\" and that are integral to unmanned aircraft systems (UAS). This AN"
+    },
+    {
+      "title": "Statement of Organization, Functions, and Delegations of Authority",
+      "date": "2024-12-31",
+      "url": "https://www.federalregister.gov/documents/2024/12/31/2024-31364/statement-of-organization-functions-and-delegations-of-authority",
+      "type": "Notice",
+      "agency": "Health and Human Services Department, ",
+      "abstract": "This document announces that the Establishment of the Advanced Research Projects Agency for Health (ARPA-H) is being amended to reflect a revised organizational structure for ARPA-H that aligns with current statutory requirements. See 42 U.S.C. 290c(a)(2)."
+    },
+    {
+      "title": "Request for Nominations of Individuals and Industry Organizations for the Patient Engagement Advisory Committee",
+      "date": "2024-12-30",
+      "url": "https://www.federalregister.gov/documents/2024/12/30/2024-31272/request-for-nominations-of-individuals-and-industry-organizations-for-the-patient-engagement",
+      "type": "Notice",
+      "agency": "Health and Human Services Department, Food and Drug Administration",
+      "abstract": "The Food and Drug Administration (FDA or the Agency) is requesting that any industry organizations interested in participating in the selection of a pool of nonvoting industry representatives to serve as temporary nonvoting members on the Patient Engagement Advisory Committee (the Committee) in the Center for Devices and Radiological Health notify FDA in writing. FDA is also requesting nominations for temporary nonvoting industry representatives to be included in a pool of individuals to serve on the Committee. Nominees recommended to serve as a temporary nonvoting industry representative may "
+    },
+    {
+      "title": "Modernizing H-1B Requirements, Providing Flexibility in the F-1 Program, and Program Improvements Affecting Other Nonimmigrant Workers",
+      "date": "2024-12-18",
+      "url": "https://www.federalregister.gov/documents/2024/12/18/2024-29354/modernizing-h-1b-requirements-providing-flexibility-in-the-f-1-program-and-program-improvements",
+      "type": "Rule",
+      "agency": "Homeland Security Department",
+      "abstract": "The U.S. Department of Homeland Security (DHS) is issuing this final rule to modernize and improve the efficiency of the H-1B program, add benefits and flexibilities, and improve integrity measures. These provisions mainly amend the regulations governing H-1B specialty occupation workers, although some of the provisions narrowly impact other nonimmigrant classifications, including: H-2, H-3, F-1, L-1, O, P, Q-1, R-1, E-3, and TN."
+    },
+    {
+      "title": "Protecting Americans From Harmful Data Broker Practices (Regulation V)",
+      "date": "2024-12-13",
+      "url": "https://www.federalregister.gov/documents/2024/12/13/2024-28690/protecting-americans-from-harmful-data-broker-practices-regulation-v",
+      "type": "Proposed Rule",
+      "agency": "Consumer Financial Protection Bureau",
+      "abstract": "The Consumer Financial Protection Bureau (CFPB) is issuing a proposed rule for public comment to amend Regulation V, which implements the Fair Credit Reporting Act (FCRA). The proposed rule would implement the FCRA's definitions of consumer report and consumer reporting agency as well as certain of the FCRA's provisions governing when consumer reporting agencies may furnish, and users may obtain, consumer reports. The proposed rule is designed to, among other things, ensure that the FCRA's protections are applied to sensitive consumer information that the statute was enacted to protect, includ"
+    },
+    {
+      "title": "Establishing a 5G Fund for Rural America",
+      "date": "2024-12-13",
+      "url": "https://www.federalregister.gov/documents/2024/12/13/2024-23404/establishing-a-5g-fund-for-rural-america",
+      "type": "Rule",
+      "agency": "Federal Communications Commission",
+      "abstract": "In this document, the Federal Communications Commission (Commission or FCC) takes important and necessary steps to implement the 5G Fund for Rural America (5G Fund) to support the build out of advanced, 5G mobile wireless broadband networks for those who live, work, and travel in rural areas. The Commission also in this document resolves the issues raised in the five pending petitions for reconsideration of its 2020 5G Fund Report and Order."
+    }
+  ]
+}
