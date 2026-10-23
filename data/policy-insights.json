@@ -1,16 +1,7 @@
 {
-  "retrieved_at": "2026-10-23T08:59:26+00:00",
+  "retrieved_at": "2026-10-23T13:07:52+00:00",
   "comparison_available": true,
-  "new_count": 1,
-  "new_documents": [
-    {
-      "title": "Implementing the Guiding and Establishing National Innovation for U.S. Stablecoins Act for the Issuance of Stablecoins by Entities Subject to the Jurisdiction of the Office of the Comptroller of the Currency",
-      "date": "2026-10-23",
-      "url": "https://www.federalregister.gov/documents/2026/10/23/2026-21706/implementing-the-guiding-and-establishing-national-innovation-for-us-stablecoins-act-for-the",
-      "type": "Rule",
-      "agency": "Treasury Department, Comptroller of the Currency",
-      "abstract": "The Office of the Comptroller of the Currency (OCC) is issuing regulations implementing the Guiding and Establishing National Innovation for U.S. Stablecoins Act regarding the issuance of payment stablecoins and certain related activities by entities subject to the OCC's jurisdiction."
-    }
-  ],
+  "new_count": 0,
+  "new_documents": [],
   "note": "New means first observed in the current matching search results, not necessarily new binding federal policy. Search results may include notices, proposed rules and unrelated documents."
 }
