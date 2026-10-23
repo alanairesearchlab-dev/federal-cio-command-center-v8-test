@@ -1,8 +1,16 @@
 {
-  "retrieved_at": "2026-10-23T04:56:56+00:00",
+  "retrieved_at": "2026-10-23T08:59:26+00:00",
   "source": "https://www.federalregister.gov/api/v1/documents.json?per_page=100&order=newest&conditions%5Bterm%5D=cybersecurity%20OR%20artificial%20intelligence%20OR%20information%20technology",
   "count": 100,
   "items": [
+    {
+      "title": "Implementing the Guiding and Establishing National Innovation for U.S. Stablecoins Act for the Issuance of Stablecoins by Entities Subject to the Jurisdiction of the Office of the Comptroller of the Currency",
+      "date": "2026-10-23",
+      "url": "https://www.federalregister.gov/documents/2026/10/23/2026-21706/implementing-the-guiding-and-establishing-national-innovation-for-us-stablecoins-act-for-the",
+      "type": "Rule",
+      "agency": "Treasury Department, Comptroller of the Currency",
+      "abstract": "The Office of the Comptroller of the Currency (OCC) is issuing regulations implementing the Guiding and Establishing National Innovation for U.S. Stablecoins Act regarding the issuance of payment stablecoins and certain related activities by entities subject to the OCC's jurisdiction."
+    },
     {
       "title": "Grant Guideline; Notice",
       "date": "2026-10-21",
@@ -794,14 +802,6 @@
       "type": "Proposed Rule",
       "agency": "Consumer Financial Protection Bureau",
       "abstract": "The Consumer Financial Protection Bureau (CFPB) is issuing a proposed rule for public comment to amend Regulation V, which implements the Fair Credit Reporting Act (FCRA). The proposed rule would implement the FCRA's definitions of consumer report and consumer reporting agency as well as certain of the FCRA's provisions governing when consumer reporting agencies may furnish, and users may obtain, consumer reports. The proposed rule is designed to, among other things, ensure that the FCRA's protections are applied to sensitive consumer information that the statute was enacted to protect, includ"
-    },
-    {
-      "title": "Establishing a 5G Fund for Rural America",
-      "date": "2024-12-13",
-      "url": "https://www.federalregister.gov/documents/2024/12/13/2024-23404/establishing-a-5g-fund-for-rural-america",
-      "type": "Rule",
-      "agency": "Federal Communications Commission",
-      "abstract": "In this document, the Federal Communications Commission (Commission or FCC) takes important and necessary steps to implement the 5G Fund for Rural America (5G Fund) to support the build out of advanced, 5G mobile wireless broadband networks for those who live, work, and travel in rural areas. The Commission also in this document resolves the issues raised in the five pending petitions for reconsideration of its 2020 5G Fund Report and Order."
     }
   ]
 }
