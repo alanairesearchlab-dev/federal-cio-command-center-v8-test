@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-10-23T16:58:51+00:00",
+  "retrieved_at": "2026-10-23T20:55:01+00:00",
   "sources": [
     "cisa_all",
     "cisa_alerts",
@@ -8,6 +8,51 @@
     "hackernews"
   ],
   "items": [
+    {
+      "title": "Microsoft Teams to get AI-powered, context-aware phishing detection",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/",
+      "published": "Fri, 23 Oct 2026 14:54:41 -0400",
+      "summary": "Microsoft has announced plans to add AI-powered phishing detection to Teams messages starting in early November 2026. [...]",
+      "source": "BleepingComputer",
+      "kind": "news",
+      "attention_keyword": false
+    },
+    {
+      "title": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations",
+      "url": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
+      "published": "Sat, 24 Oct 2026 00:20:13 +0530",
+      "summary": "Diplomatic organizations in Central Asia have been targeted by a sophisticated new Unified Extensible Firmware Interface (UEFI) bootkit called BlackX. The activity, which singled out diplomatic entities in Tajikistan, Uzbekistan, and Turkmenistan in early 2026, is suspected to be orchestrated by a China-linked state-sponsored hacking group known as APT41, Kaspersky said in a technical report",
+      "source": "The Hacker News",
+      "kind": "news",
+      "attention_keyword": false
+    },
+    {
+      "title": "Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws",
+      "url": "https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html",
+      "published": "Fri, 23 Oct 2026 23:24:08 +0530",
+      "summary": "Ruby has released versions 4.0.9, 3.4.12, and 3.3.13 to fix three bugs in Onigmo, the regular expression engine built into the language. The bugs lie behind four critical security flaws that GitLab patched over the past month. GitLab found that a specially crafted pattern could corrupt memory while Ruby compiles it, potentially leading to code execution on its own servers. Ruby says any",
+      "source": "The Hacker News",
+      "kind": "news",
+      "attention_keyword": false
+    },
+    {
+      "title": "Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions",
+      "url": "https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html",
+      "published": "Fri, 23 Oct 2026 23:20:47 +0530",
+      "summary": "Cybersecurity researchers have discovered an artificial intelligence (AI)-driven intrusion ecosystem run by affiliates of the INC and The Gentlemen ransomware groups. Central to the operation is an \"Autonomous Red Team Kill Chain Framework\" referred to as Phantom. The threat actor is assessed to be Russian-speaking and functions both as an intrusion and data-extortion operator, as well as an",
+      "source": "The Hacker News",
+      "kind": "news",
+      "attention_keyword": false
+    },
+    {
+      "title": "Microsoft: Windows Server 2016 reaches end of support in January",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-january/",
+      "published": "Fri, 23 Oct 2026 13:05:07 -0400",
+      "summary": "Microsoft says Windows Server 2016 will stop receiving security updates after it reaches the end of support in January 2027. [...]",
+      "source": "BleepingComputer",
+      "kind": "news",
+      "attention_keyword": false
+    },
     {
       "title": "Quest Diagnostics confirms data breach exposed patient records",
       "url": "https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/",
@@ -63,7 +108,7 @@
       "attention_keyword": false
     },
     {
-      "title": "Russian-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
+      "title": "Russia-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
       "url": "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html",
       "published": "Fri, 23 Oct 2026 16:41:23 +0530",
       "summary": "The Russian state-sponsored hacking group Sandworm teamed up with another threat actor to carry out a destructive wiping attack targeting a Ukrainian logistics company last year. According to ESET, the attack involved UAC-0099 (aka Earth Sirrush) obtaining initial access to the target on July 16, 2025, via a spear-phishing email bearing a malware-laced attachment that led to the deployment of",
@@ -315,24 +360,6 @@
       "attention_keyword": false
     },
     {
-      "title": "Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks",
-      "url": "https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/",
-      "published": "Wed, 21 Oct 2026 18:16:26 -0400",
-      "summary": "Chrome is getting new scam protections that use Gemini to detect deceptive websites and warn users when they copy suspicious commands from ClickFix attacks. [...]",
-      "source": "BleepingComputer",
-      "kind": "news",
-      "attention_keyword": false
-    },
-    {
-      "title": "Japan's Onamae Desktop Cloud hacked, up to 27,000 servers affected",
-      "url": "https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/",
-      "published": "Wed, 21 Oct 2026 17:43:27 -0400",
-      "summary": "Hackers compromised the infrastructure of Onamae Desktop Cloud, a popular provider of VPS services in Japan, and installed malware on up to 26,739 customers' servers. [...]",
-      "source": "BleepingComputer",
-      "kind": "news",
-      "attention_keyword": false
-    },
-    {
       "title": "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases",
       "url": "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
       "published": "Thu, 22 Oct 2026 00:27:34 +0530",
@@ -571,33 +598,6 @@
       "url": "https://thehackernews.com/2026/10/connectwise-resets-credentials-as-cloud.html",
       "published": "Tue, 20 Oct 2026 16:26:08 +0530",
       "summary": "ConnectWise on Monday said it has taken remediation measures, including strengthening administrative-access protections and resetting accounts and replacing application credentials, as it continues to respond to a security incident that led to unauthorized access to application identities associated with Cloud Backup. The company said it has completed the following actions since it began",
-      "source": "The Hacker News",
-      "kind": "news",
-      "attention_keyword": false
-    },
-    {
-      "title": "Hackers Hijack Five OVHcloud CLI Releases to Distribute Secret-Stealing Malware",
-      "url": "https://thehackernews.com/2026/10/hackers-hijack-five-ovhcloud-cli.html",
-      "published": "Tue, 20 Oct 2026 13:51:29 +0530",
-      "summary": "An attacker used a contributor's GitHub account to replace the download archives on five existing releases of OVHcloud's command-line tool on Monday, October 19. The account had been hijacked, and the new files were a build designed to steal secrets stored on the disk of any machine that runs it, the cloud provider says. They were live on GitHub for up to 94 minutes, from 12:47 to 14:21 UTC,",
-      "source": "The Hacker News",
-      "kind": "news",
-      "attention_keyword": false
-    },
-    {
-      "title": "ClickFix Attackers Exploit Siemens Software Center Flaw to Deploy Remote Access Trojan",
-      "url": "https://thehackernews.com/2026/10/clickfix-attackers-exploit-siemens.html",
-      "published": "Tue, 20 Oct 2026 12:41:45 +0530",
-      "summary": "Siemens has addressed a DLL sideloading vulnerability impacting Siemens Software Center that it said has been exploited in ClickFix attacks. The high-severity vulnerability, tracked as CVE-2026-110936 (CVSS v4 score: 8.4), could allow an attacker to place a specially-crafted DLL in a directory the application searches, resulting in execution of malicious code with the same privileges as the",
-      "source": "The Hacker News",
-      "kind": "news",
-      "attention_keyword": false
-    },
-    {
-      "title": "Ex-OpenAI Engineer Detained in Spy Device Case as Saudi Royal Contacts Emerge",
-      "url": "https://thehackernews.com/2026/10/ex-openai-engineer-detained-in-spy.html",
-      "published": "Tue, 20 Oct 2026 11:23:16 +0530",
-      "summary": "A U.S. court on Monday granted the U.S. government's request to detain a former OpenAI engineer accused of planting a recording device in an executive conference room at the company's San Francisco office to allegedly steal sensitive secrets. In a new court filing Sunday, prosecutors revealed that Abdulrahman Alfozan, a 35-year-old Saudi national, was \"in frequent communications via WhatsApp",
       "source": "The Hacker News",
       "kind": "news",
       "attention_keyword": false
