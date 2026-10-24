@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-10-24T04:54:22+00:00",
+  "retrieved_at": "2026-10-24T08:55:15+00:00",
   "sources": [
     "cisa_all",
     "cisa_alerts",
@@ -8,6 +8,15 @@
     "hackernews"
   ],
   "items": [
+    {
+      "title": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
+      "url": "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
+      "published": "Sat, 24 Oct 2026 11:55:57 +0530",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two vulnerabilities impacting Collabora Online Built-in CODE Server and Arista VeloCloud Orchestrator (VCO) to its Known Exploited Vulnerabilities (KEV), citing reports of active exploitation in the wild. The critical-severity vulnerabilities are listed below - CVE-2026-110447 (CVSS score: 9.2) - An operating",
+      "source": "The Hacker News",
+      "kind": "news",
+      "attention_keyword": true
+    },
     {
       "title": "Abandoned Popcorn Time app exposed millions of devices to RCE attacks",
       "url": "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/",
@@ -589,15 +598,6 @@
       "url": "https://thehackernews.com/2026/10/russian-apt28-breaches-nato-naval.html",
       "published": "Tue, 20 Oct 2026 16:36:25 +0530",
       "summary": "The Russia-linked state-sponsored threat actor tracked as APT28 (aka BlueDelta, Fancy Bear, and Forest Blizzard) has been attributed to attacks targeting two member states of the North Atlantic Treaty Organization (NATO). The Symantec Threat Hunter Team, which is tracking the activity cluster under the moniker Swallowtail, involved the use of a backdoor called HOOKEDGE and a previously",
-      "source": "The Hacker News",
-      "kind": "news",
-      "attention_keyword": false
-    },
-    {
-      "title": "ConnectWise Resets Credentials as Cloud Backup Remains Offline After Security Incident",
-      "url": "https://thehackernews.com/2026/10/connectwise-resets-credentials-as-cloud.html",
-      "published": "Tue, 20 Oct 2026 16:26:08 +0530",
-      "summary": "ConnectWise on Monday said it has taken remediation measures, including strengthening administrative-access protections and resetting accounts and replacing application credentials, as it continues to respond to a security incident that led to unauthorized access to application identities associated with Cloud Backup. The company said it has completed the following actions since it began",
       "source": "The Hacker News",
       "kind": "news",
       "attention_keyword": false
