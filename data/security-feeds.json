@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-10-23T20:55:01+00:00",
+  "retrieved_at": "2026-10-24T01:14:53+00:00",
   "sources": [
     "cisa_all",
     "cisa_alerts",
@@ -8,6 +8,15 @@
     "hackernews"
   ],
   "items": [
+    {
+      "title": "Abandoned Popcorn Time app exposed millions of devices to RCE attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/",
+      "published": "Fri, 23 Oct 2026 16:55:05 -0400",
+      "summary": "Researchers remotely disabled a vulnerable updater in the abandoned Time4Popcorn app, a fork of the Popcorn Time BitTorrent client, closing a security flaw that could have allowed attackers to execute malicious code with elevated privileges on millions of computers. [...]",
+      "source": "BleepingComputer",
+      "kind": "news",
+      "attention_keyword": false
+    },
     {
       "title": "Microsoft Teams to get AI-powered, context-aware phishing detection",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/",
@@ -311,15 +320,6 @@
       "published": "Thu, 22 Oct 2026 13:58:48 +0530",
       "summary": "LiteLLM on Wednesday disclosed that threat actors compromised \"multiple independent security controls\" to push a malicious version of the Python package containing a credential stealer and a backdoor. On October 21, 2026, LiteLLM's release pipeline was compromised to push 1.107.0 to the Docker Hub registry and the Python Package Index (PyPI) repository. The incident took place around 4:00 a.m.",
       "source": "The Hacker News",
-      "kind": "news",
-      "attention_keyword": false
-    },
-    {
-      "title": "Authorities disrupt nearly 11,000 cybercrime networks in Africa",
-      "url": "https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa/",
-      "published": "Thu, 22 Oct 2026 04:27:11 -0400",
-      "summary": "Law enforcement agencies have disrupted nearly 11,000 cybercriminal networks and arrested more than 1,400 people in Operation Serengeti III, which targeted business email compromise, ransomware, and online scams. [...]",
-      "source": "BleepingComputer",
       "kind": "news",
       "attention_keyword": false
     },
