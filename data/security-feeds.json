@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-10-27T17:08:34+00:00",
+  "retrieved_at": "2026-10-27T20:57:54+00:00",
   "sources": [
     "cisa_all",
     "cisa_alerts",
@@ -8,6 +8,33 @@
     "hackernews"
   ],
   "items": [
+    {
+      "title": "Hackers hijack Convertr analytics script to steal payment card data",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-convertr-analytics-script-to-steal-payment-card-data/",
+      "published": "Tue, 27 Oct 2026 16:57:25 -0400",
+      "summary": "A credit card skimming group reportedly compromised a shared analytics script used by e-commerce platform Convertr to steal shoppers' payment data during checkout. [...]",
+      "source": "BleepingComputer",
+      "kind": "news",
+      "attention_keyword": false
+    },
+    {
+      "title": "CyberStrikeAI Uses 44 AI Agents to Automate Hacking Operations Against Japan Targets",
+      "url": "https://thehackernews.com/2026/10/cyberstrikeai-uses-44-ai-agents-to.html",
+      "published": "Tue, 27 Oct 2026 23:56:46 +0530",
+      "summary": "Cybersecurity researchers have disclosed details of three cyber attacks targeting organizations in Japan in which artificial intelligence (AI) was a key element, either in the driving seat or to assist a human operator. TrendAI, which analyzed three exposed server environments used by threat actors to conduct the malicious cyber operations, described them as distinct from previously published",
+      "source": "The Hacker News",
+      "kind": "news",
+      "attention_keyword": false
+    },
+    {
+      "title": "Microsoft releases Windows OOB updates to distrust eMudhra certificates",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-oob-updates-to-distrust-emudhra-certificates/",
+      "published": "Tue, 27 Oct 2026 14:20:28 -0400",
+      "summary": "Microsoft has released out-of-band (OOB) Windows updates to remove trust in certificates tied to compromised eMudhra certificate authority keys, protecting systems that do not receive automatic certificate trust updates. [...]",
+      "source": "BleepingComputer",
+      "kind": "news",
+      "attention_keyword": false
+    },
     {
       "title": "Warp discloses breach exposing AI agent logs, user telemetry data",
       "url": "https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data/",
@@ -252,15 +279,6 @@
       "attention_keyword": false
     },
     {
-      "title": "Chinese man extradited for role in $36 million cryptocurrency scam",
-      "url": "https://www.bleepingcomputer.com/news/security/chinese-man-extradited-for-role-in-36-million-cryptocurrency-scam/",
-      "published": "Mon, 26 Oct 2026 09:56:44 -0400",
-      "summary": "A Chinese national was arraigned in California after being extradited from the Netherlands for his alleged involvement in a cryptocurrency investment scam that stole nearly $37 million from 174 victims in the United States. [...]",
-      "source": "BleepingComputer",
-      "kind": "news",
-      "attention_keyword": false
-    },
-    {
       "title": "Two Critical Wasmtime Flaws Could Let Malicious WebAssembly Modules Escape Sandboxes",
       "url": "https://thehackernews.com/2026/10/two-critical-wasmtime-flaws-could-let.html",
       "published": "Mon, 26 Oct 2026 17:22:41 +0530",
@@ -275,15 +293,6 @@
       "published": "Mon, 26 Oct 2026 16:53:56 +0530",
       "summary": "Every SOC struggles with a pile of alerts. Very few of those alerts explain how an attack started or how it progressed. Network data, like that from a network detection and response (NDR) platform, connects individual alerts into one timeline, and it feeds the defensive systems that can tie all events together into one coordinated view. SOC teams often first see the shape of an intrusion",
       "source": "The Hacker News",
-      "kind": "news",
-      "attention_keyword": false
-    },
-    {
-      "title": "Kali Linux 2026.3 released with 6 new tools, desktop updates",
-      "url": "https://www.bleepingcomputer.com/news/linux/kali-linux-20263-released-with-6-new-tools-desktop-updates/",
-      "published": "Mon, 26 Oct 2026 06:26:52 -0400",
-      "summary": "Kali Linux has released version 2026.3, its third release this year, featuring six new hacking tools, desktop environment improvements, refreshed build scripts, and more. [...]",
-      "source": "BleepingComputer",
       "kind": "news",
       "attention_keyword": false
     },
@@ -580,15 +589,6 @@
       "url": "https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html",
       "published": "Thu, 22 Oct 2026 13:17:22 +0530",
       "summary": "Node.js released security updates on October 21 for its three supported release lines, 22.x, 24.x and 26.x, fixing 10 flaws. The most serious is a bug in the Brotli decompression code that Node.js bundles, which the project says can allow remote code execution, meaning an attacker could run code of their choosing on the affected system. Each supported line has one fixed version:",
-      "source": "The Hacker News",
-      "kind": "news",
-      "attention_keyword": false
-    },
-    {
-      "title": "New QPACK Flaws Can Crash HTTP/3 Servers, Trigger Up to 4,000-Fold Memory Amplification",
-      "url": "https://thehackernews.com/2026/10/new-qpack-flaws-can-crash-http3-servers.html",
-      "published": "Thu, 22 Oct 2026 12:08:31 +0530",
-      "summary": "A remote attacker who has not logged in can crash many HTTP/3 web servers with a single connection, security firm FoxIO disclosed, releasing working proof-of-concept code. By sending a small batch of compressed HTTP headers that expands in memory to a much larger set, the attacker can force the server to use thousands of times more memory than it received, enough to run a default server",
       "source": "The Hacker News",
       "kind": "news",
       "attention_keyword": false

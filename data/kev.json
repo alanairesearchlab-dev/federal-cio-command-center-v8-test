@@ -1,8 +1,30 @@
 {
-  "retrieved_at": "2026-10-27T17:08:34+00:00",
+  "retrieved_at": "2026-10-27T20:57:54+00:00",
   "source": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
-  "count": 1758,
+  "count": 1760,
   "items": [
+    {
+      "cve": "CVE-2026-48356",
+      "vendor": "Adobe",
+      "product": "Commerce and Magento",
+      "name": "Adobe Commerce and Magento Unrestricted Upload of File with Dangerous Type Vulnerability",
+      "added": "2026-10-27",
+      "due": "2026-11-10",
+      "ransomware": "Unknown",
+      "action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
+      "notes": "https://www.adobe.com/trust/security/products/commerce/apsb26-73.html ; ; BOD 26-04: https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https://www.cisa.gov/news-events/directives/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https://nvd.nist.gov/vuln/detail/CVE-2026-48356"
+    },
+    {
+      "cve": "CVE-2026-111497",
+      "vendor": "Google",
+      "product": "Brotli",
+      "name": "Google Brotli Unchecked Return Value Vulnerability",
+      "added": "2026-10-27",
+      "due": "2026-11-10",
+      "ransomware": "Unknown",
+      "action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines.",
+      "notes": "This vulnerability affects an open-source component, third-party library, protocol, or proprietary implementation that could be used by different products. For more information, please see: https://github.com/google/brotli/releases/tag/v1.2.1 ; ; BOD 26-04: https://www.cisa.gov/news-events/directives/bod-26-04-prioritizing-security-updates-based-risk ; Forensics Triage Requirements: https://www.cisa.gov/news-events/directives/bod-26-04-implementation-guidance-prioritizing-security-updates-based-risk ; https://nvd.nist.gov/vuln/detail/CVE-2026-111497"
+    },
     {
       "cve": "CVE-2026-109619",
       "vendor": "PHP Group",
