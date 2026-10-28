@@ -1,24 +1,7 @@
 {
-  "retrieved_at": "2026-10-28T09:13:12+00:00",
+  "retrieved_at": "2026-10-28T13:26:59+00:00",
   "comparison_available": true,
-  "new_count": 2,
-  "new_documents": [
-    {
-      "title": "NCUA Draft 2027-2028 Budget",
-      "date": "2026-10-28",
-      "url": "https://www.federalregister.gov/documents/2026/10/28/2026-21948/ncua-draft-2027-2028-budget",
-      "type": "Notice",
-      "agency": "National Credit Union Administration",
-      "abstract": "NCUA's draft \"detailed business-type budget\" is being made available for public review as required by federal statute. The proposed resources will finance the agency's annual operations and capital projects, both of which are necessary for the agency to accomplish its mission of enabling access to financial services by facilitating safe, sound, and resilient credit unions. Comment instructions are included in the SUPPLEMENTARY INFORMATION section."
-    },
-    {
-      "title": "Exemptions To Permit Circumvention of Access Controls on Copyrighted Works",
-      "date": "2026-10-28",
-      "url": "https://www.federalregister.gov/documents/2026/10/28/2026-21939/exemptions-to-permit-circumvention-of-access-controls-on-copyrighted-works",
-      "type": "Proposed Rule",
-      "agency": "Library of Congress, Copyright Office, Library of Congress",
-      "abstract": "The United States Copyright Office is conducting the tenth triennial rulemaking proceeding under the Digital Millennium Copyright Act (\"DMCA\"), concerning temporary exemptions to the DMCA's prohibition against circumvention of technological measures that control access to copyrighted works. Having carefully considered the petitions for new and renewal exemptions and comments received in response to the June 9, 2026 Notification of Inquiry, the Office announces the Register's intention to recommend all but one of the existing exemptions for renewal, and initiates three rounds of public comment "
-    }
-  ],
+  "new_count": 0,
+  "new_documents": [],
   "note": "New means first observed in the current matching search results, not necessarily new binding federal policy. Search results may include notices, proposed rules and unrelated documents."
 }
