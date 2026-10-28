@@ -1,58 +1,58 @@
 {
-  "updated_at": "2026-10-28T13:26:59+00:00",
+  "updated_at": "2026-10-28T17:13:22+00:00",
   "sources": {
     "kev": {
       "ok": true,
-      "checked_at": "2026-10-28T13:26:59+00:00",
-      "last_success_at": "2026-10-28T13:26:59+00:00",
+      "checked_at": "2026-10-28T17:13:22+00:00",
+      "last_success_at": "2026-10-28T17:13:22+00:00",
       "count": 1760
     },
     "register": {
       "ok": true,
-      "checked_at": "2026-10-28T13:26:59+00:00",
-      "last_success_at": "2026-10-28T13:26:59+00:00",
+      "checked_at": "2026-10-28T17:13:22+00:00",
+      "last_success_at": "2026-10-28T17:13:22+00:00",
       "count": 100
     },
     "policy_insights": {
       "ok": true,
-      "checked_at": "2026-10-28T13:26:59+00:00",
-      "last_success_at": "2026-10-28T13:26:59+00:00",
+      "checked_at": "2026-10-28T17:13:22+00:00",
+      "last_success_at": "2026-10-28T17:13:22+00:00",
       "count": 0
     },
     "cisa_all": {
       "ok": false,
-      "checked_at": "2026-10-28T13:26:59+00:00",
+      "checked_at": "2026-10-28T17:13:22+00:00",
       "last_success_at": null,
       "error": "HTTP Error 403: Forbidden"
     },
     "cisa_alerts": {
       "ok": false,
-      "checked_at": "2026-10-28T13:26:59+00:00",
+      "checked_at": "2026-10-28T17:13:22+00:00",
       "last_success_at": null,
       "error": "HTTP Error 403: Forbidden"
     },
     "bleepingcomputer": {
       "ok": true,
-      "checked_at": "2026-10-28T13:26:59+00:00",
-      "last_success_at": "2026-10-28T13:26:59+00:00",
+      "checked_at": "2026-10-28T17:13:22+00:00",
+      "last_success_at": "2026-10-28T17:13:22+00:00",
       "count": 15
     },
     "krebs": {
       "ok": true,
-      "checked_at": "2026-10-28T13:26:59+00:00",
-      "last_success_at": "2026-10-28T13:26:59+00:00",
+      "checked_at": "2026-10-28T17:13:22+00:00",
+      "last_success_at": "2026-10-28T17:13:22+00:00",
       "count": 10
     },
     "hackernews": {
       "ok": true,
-      "checked_at": "2026-10-28T13:26:59+00:00",
-      "last_success_at": "2026-10-28T13:26:59+00:00",
+      "checked_at": "2026-10-28T17:13:22+00:00",
+      "last_success_at": "2026-10-28T17:13:22+00:00",
       "count": 50
     },
     "security_feeds": {
       "ok": true,
-      "checked_at": "2026-10-28T13:26:59+00:00",
-      "last_success_at": "2026-10-28T13:26:59+00:00",
+      "checked_at": "2026-10-28T17:13:22+00:00",
+      "last_success_at": "2026-10-28T17:13:22+00:00",
       "count": 75
     }
   }
