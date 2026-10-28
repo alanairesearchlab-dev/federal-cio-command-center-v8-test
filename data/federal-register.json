@@ -1,8 +1,24 @@
 {
-  "retrieved_at": "2026-10-28T05:08:22+00:00",
+  "retrieved_at": "2026-10-28T09:13:12+00:00",
   "source": "https://www.federalregister.gov/api/v1/documents.json?per_page=100&order=newest&conditions%5Bterm%5D=cybersecurity%20OR%20artificial%20intelligence%20OR%20information%20technology",
   "count": 100,
   "items": [
+    {
+      "title": "NCUA Draft 2027-2028 Budget",
+      "date": "2026-10-28",
+      "url": "https://www.federalregister.gov/documents/2026/10/28/2026-21948/ncua-draft-2027-2028-budget",
+      "type": "Notice",
+      "agency": "National Credit Union Administration",
+      "abstract": "NCUA's draft \"detailed business-type budget\" is being made available for public review as required by federal statute. The proposed resources will finance the agency's annual operations and capital projects, both of which are necessary for the agency to accomplish its mission of enabling access to financial services by facilitating safe, sound, and resilient credit unions. Comment instructions are included in the SUPPLEMENTARY INFORMATION section."
+    },
+    {
+      "title": "Exemptions To Permit Circumvention of Access Controls on Copyrighted Works",
+      "date": "2026-10-28",
+      "url": "https://www.federalregister.gov/documents/2026/10/28/2026-21939/exemptions-to-permit-circumvention-of-access-controls-on-copyrighted-works",
+      "type": "Proposed Rule",
+      "agency": "Library of Congress, Copyright Office, Library of Congress",
+      "abstract": "The United States Copyright Office is conducting the tenth triennial rulemaking proceeding under the Digital Millennium Copyright Act (\"DMCA\"), concerning temporary exemptions to the DMCA's prohibition against circumvention of technological measures that control access to copyrighted works. Having carefully considered the petitions for new and renewal exemptions and comments received in response to the June 9, 2026 Notification of Inquiry, the Office announces the Register's intention to recommend all but one of the existing exemptions for renewal, and initiates three rounds of public comment "
+    },
     {
       "title": "Implementing the Guiding and Establishing National Innovation for U.S. Stablecoins Act for the Issuance of Stablecoins by Entities Subject to the Jurisdiction of the Office of the Comptroller of the Currency",
       "date": "2026-10-23",
@@ -786,22 +802,6 @@
       "type": "Notice",
       "agency": "Health and Human Services Department, Food and Drug Administration",
       "abstract": "The Food and Drug Administration (FDA or the Agency) is requesting that any industry organizations interested in participating in the selection of a pool of nonvoting industry representatives to serve as temporary nonvoting members on the Patient Engagement Advisory Committee (the Committee) in the Center for Devices and Radiological Health notify FDA in writing. FDA is also requesting nominations for temporary nonvoting industry representatives to be included in a pool of individuals to serve on the Committee. Nominees recommended to serve as a temporary nonvoting industry representative may "
-    },
-    {
-      "title": "Modernizing H-1B Requirements, Providing Flexibility in the F-1 Program, and Program Improvements Affecting Other Nonimmigrant Workers",
-      "date": "2024-12-18",
-      "url": "https://www.federalregister.gov/documents/2024/12/18/2024-29354/modernizing-h-1b-requirements-providing-flexibility-in-the-f-1-program-and-program-improvements",
-      "type": "Rule",
-      "agency": "Homeland Security Department",
-      "abstract": "The U.S. Department of Homeland Security (DHS) is issuing this final rule to modernize and improve the efficiency of the H-1B program, add benefits and flexibilities, and improve integrity measures. These provisions mainly amend the regulations governing H-1B specialty occupation workers, although some of the provisions narrowly impact other nonimmigrant classifications, including: H-2, H-3, F-1, L-1, O, P, Q-1, R-1, E-3, and TN."
-    },
-    {
-      "title": "Protecting Americans From Harmful Data Broker Practices (Regulation V)",
-      "date": "2024-12-13",
-      "url": "https://www.federalregister.gov/documents/2024/12/13/2024-28690/protecting-americans-from-harmful-data-broker-practices-regulation-v",
-      "type": "Proposed Rule",
-      "agency": "Consumer Financial Protection Bureau",
-      "abstract": "The Consumer Financial Protection Bureau (CFPB) is issuing a proposed rule for public comment to amend Regulation V, which implements the Fair Credit Reporting Act (FCRA). The proposed rule would implement the FCRA's definitions of consumer report and consumer reporting agency as well as certain of the FCRA's provisions governing when consumer reporting agencies may furnish, and users may obtain, consumer reports. The proposed rule is designed to, among other things, ensure that the FCRA's protections are applied to sensitive consumer information that the statute was enacted to protect, includ"
     }
   ]
 }
