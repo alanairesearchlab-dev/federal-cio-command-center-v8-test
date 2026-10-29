@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-10-29T05:09:05+00:00",
+  "retrieved_at": "2026-10-29T09:14:46+00:00",
   "sources": [
     "cisa_all",
     "cisa_alerts",
@@ -8,6 +8,33 @@
     "hackernews"
   ],
   "items": [
+    {
+      "title": "Hackers Exploited Cisco SD-WAN Flaw to Plant Malware Built to Steal Encryption Keys",
+      "url": "https://thehackernews.com/2026/10/hackers-exploited-cisco-sd-wan-flaw-to.html",
+      "published": "Thu, 29 Oct 2026 13:54:22 +0530",
+      "summary": "Hackers exploited a critical Cisco Catalyst SD-WAN flaw, fixed in February, to plant custom malware inside the systems that control an organization's SD-WAN network. The malware, called KeyDrift, is designed to copy the keys that encrypt traffic between sites and store them for later use, Cisco Talos said on October 28. Talos calls the attacks historical but does not specify when they",
+      "source": "The Hacker News",
+      "kind": "news",
+      "attention_keyword": false
+    },
+    {
+      "title": "China-Linked Hackers Exploited VMware ESX Zero-Day to Reduce Audit Trail Visibility",
+      "url": "https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html",
+      "published": "Thu, 29 Oct 2026 11:52:33 +0530",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a security flaw impacting Broadcom VMware ESX to its Known Exploited Vulnerabilities (KEV) catalog, after CrowdStrike revealed that it had been weaponized by a China-nexus threat actor known as Warp Panda in attacks targeting the U.S. legal sector. The vulnerability in question is CVE-2026-41709 (CVSS score:",
+      "source": "The Hacker News",
+      "kind": "news",
+      "attention_keyword": true
+    },
+    {
+      "title": "Attackers Exploit PHP2Shell Flaws in Internet-Exposed Palo Alto Networks Management Interfaces",
+      "url": "https://thehackernews.com/2026/10/attackers-exploit-php2shell-flaws-in.html",
+      "published": "Thu, 29 Oct 2026 11:20:17 +0530",
+      "summary": "Palo Alto Networks on Wednesday warned that threat actors are exploiting the recently patched PHP2Shell vulnerabilities against publicly-accessible management interfaces. \"Active exploitation has been observed targeting the Palo Alto Networks management interface exposed to the internet,\" the network security company said in an update to its advisory. The vulnerabilities, tracked as",
+      "source": "The Hacker News",
+      "kind": "news",
+      "attention_keyword": true
+    },
     {
       "title": "Police seize Virtualine bulletproof service tied to ransowmare, cybercrime",
       "url": "https://www.bleepingcomputer.com/news/security/police-seize-virtualine-bulletproof-service-tied-to-ransowmare-cybercrime/",
@@ -562,33 +589,6 @@
       "url": "https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html",
       "published": "Fri, 23 Oct 2026 23:20:47 +0530",
       "summary": "Cybersecurity researchers have discovered an artificial intelligence (AI)-driven intrusion ecosystem run by affiliates of the INC and The Gentlemen ransomware groups. Central to the operation is an \"Autonomous Red Team Kill Chain Framework\" referred to as Phantom. The threat actor is assessed to be Russian-speaking and functions both as an intrusion and data-extortion operator, as well as an",
-      "source": "The Hacker News",
-      "kind": "news",
-      "attention_keyword": false
-    },
-    {
-      "title": "Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials",
-      "url": "https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html",
-      "published": "Fri, 23 Oct 2026 19:20:56 +0530",
-      "summary": "Cybersecurity researchers have disclosed details of a large-scale campaign that has targeted exposed network edge devices such as Fortinet FortiGate and Palo Alto Networks GlobalProtect firewalls. \"Artifacts from this investigation also indicate that operators in this campaign have obtained access to numerous organizations worldwide, and have attempted to further compromise some victims,",
-      "source": "The Hacker News",
-      "kind": "news",
-      "attention_keyword": false
-    },
-    {
-      "title": "PHP Warns of Another Unpatched RCE Risk Two Days After Emergency PHP2Shell Patches",
-      "url": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html",
-      "published": "Fri, 23 Oct 2026 16:55:43 +0530",
-      "summary": "PHP has warned of another way an attacker could run code on a web server, two days after it shipped emergency fixes for the critical PHP2Shell flaws. The new issue, assigned CVE-2026-115560, affects only web applications configured in an unusual way, and PHP considers it an unlikely risk.The project is not issuing an emergency fix for it. Instead, it recommends turning off a feature called",
-      "source": "The Hacker News",
-      "kind": "news",
-      "attention_keyword": false
-    },
-    {
-      "title": "Russia-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
-      "url": "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html",
-      "published": "Fri, 23 Oct 2026 16:41:23 +0530",
-      "summary": "The Russian state-sponsored hacking group Sandworm teamed up with another threat actor to carry out a destructive wiping attack targeting a Ukrainian logistics company last year. According to ESET, the attack involved UAC-0099 (aka Earth Sirrush) obtaining initial access to the target on July 16, 2025, via a spear-phishing email bearing a malware-laced attachment that led to the deployment of",
       "source": "The Hacker News",
       "kind": "news",
       "attention_keyword": false
