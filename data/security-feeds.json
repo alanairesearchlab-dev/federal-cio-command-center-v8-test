@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-10-30T05:10:03+00:00",
+  "retrieved_at": "2026-10-30T09:15:22+00:00",
   "sources": [
     "cisa_all",
     "cisa_alerts",
@@ -8,6 +8,33 @@
     "hackernews"
   ],
   "items": [
+    {
+      "title": "Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw",
+      "url": "https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html",
+      "published": "Fri, 30 Oct 2026 13:15:30 +0530",
+      "summary": "Drupal has warned that threat actors are exploiting a \"highly critical\" security flaw in its Commerce Core component. The vulnerability, tracked as CVE-2026-118539 (CVSS score: N/A), is a case of missing authorization affecting Commerce Core versions from 0.0.0 to 2.41 and from 3.0.0 to 3.3.13. \"This module enables you to sell goods and services to customers through an included shopping cart",
+      "source": "The Hacker News",
+      "kind": "news",
+      "attention_keyword": false
+    },
+    {
+      "title": "CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV",
+      "url": "https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html",
+      "published": "Fri, 30 Oct 2026 12:57:05 +0530",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Cisco and GitLab software to its Known Exploited Vulnerabilities (KEV), citing evidence of active exploitation. The vulnerabilities are listed below - CVE-2026-97229 (CVSS score: 10.0) - An integer overflow or wraparound vulnerability in GitLab Community Edition and Enterprise",
+      "source": "The Hacker News",
+      "kind": "news",
+      "attention_keyword": true
+    },
+    {
+      "title": "Binance Suffers Security Breach Affecting $6.3 Billion in Assets, Nearly $3 Billion Frozen",
+      "url": "https://thehackernews.com/2026/10/binance-suffers-security-breach.html",
+      "published": "Fri, 30 Oct 2026 09:44:59 +0530",
+      "summary": "Cryptocurrency giant Binance said on Thursday that a \"security incident\" on its platform has impacted about $6.3 billion worth of assets. The world's biggest cryptocurrency exchange said nearly $3 billion of those assets have been frozen on-chain so far. Tether and Circle said they have frozen more than 1.567 billion USDT and 800 million USDC related to the incident, respectively. The",
+      "source": "The Hacker News",
+      "kind": "news",
+      "attention_keyword": false
+    },
     {
       "title": "OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/",
@@ -562,33 +589,6 @@
       "url": "https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html",
       "published": "Mon, 26 Oct 2026 15:24:02 +0530",
       "summary": "A rentable Android spyware kit called uCreator takes over Telegram and WeChat accounts by hiding its code inside working copies of the two apps, researcher Ovi found. It only reaches people who install one of these tampered copies, spread outside the official app stores, or who run WeChat inside the kit makers' own container app. The kit's Telegram part matches Baohuo, a backdoor that Doctor",
-      "source": "The Hacker News",
-      "kind": "news",
-      "attention_keyword": false
-    },
-    {
-      "title": "Microsoft 365 Token-Replay Attacks Compromise 97 Accounts at 79 Organizations",
-      "url": "https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html",
-      "published": "Mon, 26 Oct 2026 14:05:51 +0530",
-      "summary": "Cybersecurity researchers have disclosed a Microsoft 365 campaign that has been observed leveraging an adversary-in-the-middle (AitM) relay to capture sign-in sessions and then replay the stolen tokens to break into email accounts at 79 organizations. Huntress, which observed the activity between July 14 and September 22, 2026, said it detected 497 successful Microsoft 365 sign-in events across",
-      "source": "The Hacker News",
-      "kind": "news",
-      "attention_keyword": false
-    },
-    {
-      "title": "Gheist Uses Stolen GitHub Tokens to Steal Private Repository Secrets via Actions Logs",
-      "url": "https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html",
-      "published": "Mon, 26 Oct 2026 13:19:46 +0530",
-      "summary": "An automated campaign is using stolen GitHub tokens to plant workflows that print a repository's secrets into its GitHub Actions logs, which the attackers then download before deleting the runs. The attacks have succeeded in private repositories and GitHub Enterprise environments, according to an analysis by cloud security company Wiz. A GitHub safeguard that pauses",
-      "source": "The Hacker News",
-      "kind": "news",
-      "attention_keyword": false
-    },
-    {
-      "title": "Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware",
-      "url": "https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html",
-      "published": "Mon, 26 Oct 2026 11:33:48 +0530",
-      "summary": "A malicious instruction file sitting in a developer's Downloads folder tried to make their AI coding agent install a known-malicious npm package, security firm Forever Security said in a report published last week. The company caught the attempt on a real customer's machine and stopped the agent before any code ran. It could not determine how the file got into the folder. The file",
       "source": "The Hacker News",
       "kind": "news",
       "attention_keyword": false
