@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-10-30T09:15:22+00:00",
+  "retrieved_at": "2026-10-30T13:25:18+00:00",
   "sources": [
     "cisa_all",
     "cisa_alerts",
@@ -8,6 +8,78 @@
     "hackernews"
   ],
   "items": [
+    {
+      "title": "CISA says max severity GitLab flaw now exploited in the wild",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks/",
+      "published": "Fri, 30 Oct 2026 09:00:32 -0400",
+      "summary": "Attackers have started exploiting a maximum-severity GitLab vulnerability patched earlier this month, according to the US Cybersecurity and Infrastructure Security Agency (CISA). [...]",
+      "source": "BleepingComputer",
+      "kind": "news",
+      "attention_keyword": false
+    },
+    {
+      "title": "Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis",
+      "url": "https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html",
+      "published": "Fri, 30 Oct 2026 17:51:56 +0530",
+      "summary": "A Trezor Safe 5 hardware wallet bought from the reseller CryptoBilis has an extra circuit board that sends out the recovery phrase over a mobile network, a customer has reported. Trezor has not yet examined the device. It is telling everyone who bought a Trezor from CryptoBilis since March 2026 to move their funds to a new wallet with a new recovery phrase. Trezor said in a blog post",
+      "source": "The Hacker News",
+      "kind": "news",
+      "attention_keyword": false
+    },
+    {
+      "title": "Why Urgent Security Fixes Aren't Fixed. Observe, Prove, Act, Confirm Gets Them Moving",
+      "url": "https://thehackernews.com/2026/10/why-urgent-security-fixes-arent-fixed.html",
+      "published": "Fri, 30 Oct 2026 17:28:53 +0530",
+      "summary": "The alert is critical. The fix is known. And the ticket sits in a queue for days. Security teams understand the risk, but the people who keep applications available need proof that the change won’t break anything. Their concerns are practical. An IPS protection could block legitimate traffic. A configuration change could interrupt a service. An endpoint policy could affect an application",
+      "source": "The Hacker News",
+      "kind": "news",
+      "attention_keyword": false
+    },
+    {
+      "title": "Microsoft finally fixes VPN issues caused by September updates",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-finally-fixes-vpn-issues-caused-by-september-updates/",
+      "published": "Fri, 30 Oct 2026 07:20:26 -0400",
+      "summary": "Microsoft has resolved Always On VPN connection failures triggered after installing the September 2026 Windows 11 security updates. [...]",
+      "source": "BleepingComputer",
+      "kind": "news",
+      "attention_keyword": false
+    },
+    {
+      "title": "Syrian Hacker Behind Fake Tweet That Triggered $136 Billion Market Drop Gets 42 Months in Prison",
+      "url": "https://thehackernews.com/2026/10/syrian-hacker-behind-fake-tweet-that.html",
+      "published": "Fri, 30 Oct 2026 16:10:45 +0530",
+      "summary": "Ahmad Umar Agha, a Syrian Electronic Army hacker known online as \"Th3Pr0,\" has been sentenced by a U.S. federal court to 42 months in prison for his role in a hacking conspiracy that targeted Western news outlets. The conspiracy was organized and led by members of former Syrian President Bashar al-Assad's inner circle, including the commander of Syria's General Intelligence",
+      "source": "The Hacker News",
+      "kind": "news",
+      "attention_keyword": false
+    },
+    {
+      "title": "Drupal warns of critical Commerce Core flaw exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-critical-commerce-core-flaw-exploited-in-attacks/",
+      "published": "Fri, 30 Oct 2026 06:16:07 -0400",
+      "summary": "Drupal warned admins to patch a critical access bypass vulnerability in the Commerce Core module that attackers are exploiting in the wild. [...]",
+      "source": "BleepingComputer",
+      "kind": "news",
+      "attention_keyword": false
+    },
+    {
+      "title": "Binance links $6.3 billion crypto theft to compromised DevOps laptop",
+      "url": "https://www.bleepingcomputer.com/news/security/binance-links-63-billion-crypto-theft-to-compromised-devops-laptop/",
+      "published": "Fri, 30 Oct 2026 05:18:13 -0400",
+      "summary": "Binance, the world's largest crypto exchange, has linked the theft of about $6.3 billion in cryptocurrency to a DevOps engineer's compromised laptop. [...]",
+      "source": "BleepingComputer",
+      "kind": "news",
+      "attention_keyword": false
+    },
+    {
+      "title": "Official Claude Code Extension on Cursor Marketplace Trojanized with Persistent SSH Backdoor",
+      "url": "https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html",
+      "published": "Fri, 30 Oct 2026 14:25:47 +0530",
+      "summary": "Cybersecurity researchers have disclosed that a trojanized version of Anthropic's official Claude Code extension was distributed through the Cursor Marketplace as a legitimate update, attempting to install a persistent SSH backdoor on affected systems. The malicious update, version 2.1.313, was distributed under the extension's legitimate publisher identity, prompting Cursor to temporarily shut",
+      "source": "The Hacker News",
+      "kind": "news",
+      "attention_keyword": false
+    },
     {
       "title": "Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw",
       "url": "https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html",
@@ -171,15 +243,6 @@
       "attention_keyword": false
     },
     {
-      "title": "Windows 11 KB5127936 update released with 41 changes and fixes",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5127936-update-released-with-41-changes-and-fixes/",
-      "published": "Thu, 29 Oct 2026 08:00:07 -0400",
-      "summary": "Microsoft released the KB5127936 preview cumulative update for Windows 11 versions 25H2 and 26H2, with 41 changes, including File Explorer and Cloud rebuild improvements. [...]",
-      "source": "BleepingComputer",
-      "kind": "news",
-      "attention_keyword": false
-    },
-    {
       "title": "Webinar: How to Build AI Threat Readiness Into Your Security Operations",
       "url": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html",
       "published": "Thu, 29 Oct 2026 17:09:41 +0530",
@@ -214,15 +277,6 @@
       "source": "The Hacker News",
       "kind": "news",
       "attention_keyword": false
-    },
-    {
-      "title": "New Cisco firewall zero-day exploited to crash SSL VPN devices",
-      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-firewall-zero-day-exploited-to-crash-ssl-vpn-devices/",
-      "published": "Thu, 29 Oct 2026 07:10:13 -0400",
-      "summary": "Cisco released security updates to patch a denial-of-service zero-day in Adaptive Security Appliance (ASA) and Threat Defense (FTD) software that attackers are exploiting to remotely crash vulnerable firewall devices. [...]",
-      "source": "BleepingComputer",
-      "kind": "news",
-      "attention_keyword": true
     },
     {
       "title": "Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls",
@@ -277,24 +331,6 @@
       "source": "The Hacker News",
       "kind": "news",
       "attention_keyword": true
-    },
-    {
-      "title": "Police seize Virtualine bulletproof service tied to ransowmare, cybercrime",
-      "url": "https://www.bleepingcomputer.com/news/security/police-seize-virtualine-bulletproof-service-tied-to-ransowmare-cybercrime/",
-      "published": "Wed, 28 Oct 2026 16:47:22 -0400",
-      "summary": "U.S. law enforcement has seized the primary domain of Virtualine, a bulletproof hosting service advertised on cybercrime forums for facilitating illegal activities. [...]",
-      "source": "BleepingComputer",
-      "kind": "news",
-      "attention_keyword": false
-    },
-    {
-      "title": "Discord to let search engines index public server messages",
-      "url": "https://www.bleepingcomputer.com/news/security/discord-to-let-search-engines-index-public-server-messages/",
-      "published": "Wed, 28 Oct 2026 14:44:16 -0400",
-      "summary": "Discord will allow search engines to index discussions in Discoverable Servers and make them accessible on the web to users outside the platform without an account or invitation. [...]",
-      "source": "BleepingComputer",
-      "kind": "news",
-      "attention_keyword": false
     },
     {
       "title": "Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns",
@@ -553,42 +589,6 @@
       "url": "https://thehackernews.com/2026/10/attackers-use-microsoft-teams-it.html",
       "published": "Mon, 26 Oct 2026 21:22:40 +0530",
       "summary": "Cybersecurity researchers are calling attention to what they say is a \"recurring social engineering pattern\" across hundreds of cases in which threat actors use Microsoft Teams' external chat creation feature to conduct impersonation scams or to deliver malware. \"A consistent pattern of attacker behavior has emerged across these incidents: the use of the same throwaway tenants, the same 'IT",
-      "source": "The Hacker News",
-      "kind": "news",
-      "attention_keyword": false
-    },
-    {
-      "title": "⚡ Weekly Recap: This2Shell, That2Shell, Everything's an RCE? Rogue AI, Supply Chain Chaos and More",
-      "url": "https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html",
-      "published": "Mon, 26 Oct 2026 19:36:13 +0530",
-      "summary": "This2Shell, That2Shell, Everything2Shell. That's pretty much how the last week went. Critical bugs that let attackers run code remotely are showing up everywhere. Hackers are scanning for targets, some flaws are already being used in attacks, and security teams have more urgent patches than they can keep up with. And that's not even the full story. A leaked key led to a software supply-chain",
-      "source": "The Hacker News",
-      "kind": "news",
-      "attention_keyword": true
-    },
-    {
-      "title": "Two Critical Wasmtime Flaws Could Let Malicious WebAssembly Modules Escape Sandboxes",
-      "url": "https://thehackernews.com/2026/10/two-critical-wasmtime-flaws-could-let.html",
-      "published": "Mon, 26 Oct 2026 17:22:41 +0530",
-      "summary": "Two critical flaws in Wasmtime, a WebAssembly runtime that can be built into other software, could allow a malicious WebAssembly module to escape the sandbox intended to contain it, the project's maintainers say. An attacker would first need a vulnerable Wasmtime build to compile a module they control, and one of the flaws affects only ARM64 systems. Fixed versions were released on",
-      "source": "The Hacker News",
-      "kind": "news",
-      "attention_keyword": false
-    },
-    {
-      "title": "Between alerts: What Attackers Do in the Spaces Ordinary Detection Misses",
-      "url": "https://thehackernews.com/2026/10/between-alerts-what-attackers-do-in.html",
-      "published": "Mon, 26 Oct 2026 16:53:56 +0530",
-      "summary": "Every SOC struggles with a pile of alerts. Very few of those alerts explain how an attack started or how it progressed. Network data, like that from a network detection and response (NDR) platform, connects individual alerts into one timeline, and it feeds the defensive systems that can tie all events together into one coordinated view. SOC teams often first see the shape of an intrusion",
-      "source": "The Hacker News",
-      "kind": "news",
-      "attention_keyword": false
-    },
-    {
-      "title": "uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts",
-      "url": "https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html",
-      "published": "Mon, 26 Oct 2026 15:24:02 +0530",
-      "summary": "A rentable Android spyware kit called uCreator takes over Telegram and WeChat accounts by hiding its code inside working copies of the two apps, researcher Ovi found. It only reaches people who install one of these tampered copies, spread outside the official app stores, or who run WeChat inside the kit makers' own container app. The kit's Telegram part matches Baohuo, a backdoor that Doctor",
       "source": "The Hacker News",
       "kind": "news",
       "attention_keyword": false
