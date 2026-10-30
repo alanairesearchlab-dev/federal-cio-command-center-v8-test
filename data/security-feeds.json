@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-10-29T21:08:09+00:00",
+  "retrieved_at": "2026-10-30T01:29:30+00:00",
   "sources": [
     "cisa_all",
     "cisa_alerts",
@@ -8,6 +8,51 @@
     "hackernews"
   ],
   "items": [
+    {
+      "title": "OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/",
+      "published": "Thu, 29 Oct 2026 19:35:52 -0400",
+      "summary": "OpenAI says it won't reduce usage limits for the $100, $200, and $500 ChatGPT Pro plans, as well as Business Premium, and it also promised to keep Dots usage independent. [...]",
+      "source": "BleepingComputer",
+      "kind": "news",
+      "attention_keyword": false
+    },
+    {
+      "title": "Binance probes potential $5.8 billion crypto-theft hack",
+      "url": "https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/",
+      "published": "Thu, 29 Oct 2026 18:45:23 -0400",
+      "summary": "Cryptocurrency exchange Binance is investigating a potential security breach involving up to $5.8 billion in digital assets, in what could become the largest cryptocurrency hack in history. [...]",
+      "source": "BleepingComputer",
+      "kind": "news",
+      "attention_keyword": false
+    },
+    {
+      "title": "Hugging Face malware campaign returns to hijack GPUs for crypto mining",
+      "url": "https://www.bleepingcomputer.com/news/security/hugging-face-malware-campaign-returns-to-hijack-gpus-for-crypto-mining/",
+      "published": "Thu, 29 Oct 2026 18:09:24 -0400",
+      "summary": "A crypto-mining campaign abusing Hugging Face models returned days after takedown, hijacking GPU servers and planting backdoors, with one model downloaded over 28,000 times. Separately, a fake Solana starter kit on GitHub is positioned to trick AI coding agents into installing a NetSupport RAT. [...]",
+      "source": "BleepingComputer",
+      "kind": "news",
+      "attention_keyword": false
+    },
+    {
+      "title": "Japan Airlines suffers third-party data breach exposing passenger info",
+      "url": "https://www.bleepingcomputer.com/news/security/japan-airlines-suffers-third-party-data-breach-exposing-passenger-info/",
+      "published": "Thu, 29 Oct 2026 18:08:04 -0400",
+      "summary": "Japan Airlines (JAL) has announced that a data breach at Amadeus's Passenger Service System exposed the data of about 92,000 customers. [...]",
+      "source": "BleepingComputer",
+      "kind": "news",
+      "attention_keyword": false
+    },
+    {
+      "title": "Polymarket halts trading after crypto-draining script breach, $2.5M traced",
+      "url": "https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced/",
+      "published": "Thu, 29 Oct 2026 17:47:25 -0400",
+      "summary": "Prediction market platform Polymarket temporarily suspended trading on Thursday after hackers compromised a third-party service to distribute cryptocurrency-draining JavaScript, with approximately $2.5 million in assets traced to a suspected attacker wallet. [...]",
+      "source": "BleepingComputer",
+      "kind": "news",
+      "attention_keyword": false
+    },
     {
       "title": "Fake crypto app on Apple App Store linked to $23K wallet theft",
       "url": "https://www.bleepingcomputer.com/news/security/fake-crypto-app-on-apple-app-store-linked-to-23k-wallet-theft/",
@@ -243,15 +288,6 @@
       "attention_keyword": false
     },
     {
-      "title": "Sony ISP subsidiary data breach exposes 2.5 million customer records",
-      "url": "https://www.bleepingcomputer.com/news/security/sony-isp-subsidiary-data-breach-exposes-25-million-customer-records/",
-      "published": "Wed, 28 Oct 2026 12:45:47 -0400",
-      "summary": "Sony Network Communications has confirmed a data breach that compromised approximately 2.5 million records containing current and former customers' personal information. [...]",
-      "source": "BleepingComputer",
-      "kind": "news",
-      "attention_keyword": false
-    },
-    {
       "title": "Researcher Reveals How Logic Bugs Alone Cracked Microsoft Edge in $175,000 Pwn2Own Win",
       "url": "https://thehackernews.com/2026/10/researcher-reveals-how-logic-bugs-alone.html",
       "published": "Wed, 28 Oct 2026 21:53:34 +0530",
@@ -268,42 +304,6 @@
       "source": "The Hacker News",
       "kind": "news",
       "attention_keyword": false
-    },
-    {
-      "title": "Volt Typhoon hides zero-day attacks using 'Silent Train' framework",
-      "url": "https://www.bleepingcomputer.com/news/security/volt-typhoon-hides-zero-day-attacks-using-silent-train-framework/",
-      "published": "Wed, 28 Oct 2026 12:00:00 -0400",
-      "summary": "Chinese state-sponsored hacking group Volt Typhoon has been using a framework that relies on rotating chains of connected devices compromised on demand, including for zero-day attacks targeting high-value systems. [...]",
-      "source": "BleepingComputer",
-      "kind": "news",
-      "attention_keyword": true
-    },
-    {
-      "title": "Microsoft urges Entra ID admins to migrate users to passkeys",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-entra-id-admins-to-migrate-users-to-passkeys/",
-      "published": "Wed, 28 Oct 2026 10:48:32 -0400",
-      "summary": "Microsoft again asked Entra ID administrators to migrate users to phishing-resistant methods to avoid sign-in disruptions before it retires SMS and voice authentication in February 2027. [...]",
-      "source": "BleepingComputer",
-      "kind": "news",
-      "attention_keyword": false
-    },
-    {
-      "title": "InfraTrust report warns of exploited flaws in critical network infrastructure",
-      "url": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/",
-      "published": "Wed, 28 Oct 2026 10:00:00 -0400",
-      "summary": "Attackers are actively exploiting vulnerabilities across critical network infrastructure, and PHP flaws known as \"PHP2Shell\" put the web management interfaces of firewalls, VPNs, application delivery controllers, and other appliances at risk. [...]",
-      "source": "BleepingComputer",
-      "kind": "news",
-      "attention_keyword": false
-    },
-    {
-      "title": "Even after PHP2Shell, blast radius matters more than a CVSS score",
-      "url": "https://www.bleepingcomputer.com/news/security/even-after-php2shell-blast-radius-matters-more-than-a-cvss-score/",
-      "published": "Wed, 28 Oct 2026 09:50:59 -0400",
-      "summary": "PHP2Shell shows how quickly attackers can exploit critical vulnerabilities, often before organizations have time to patch. Token Security explains why limiting the access of service accounts, API keys, and AI agents is just as important as fixing vulnerabilities to reduce the damage from a breach. [...]",
-      "source": "BleepingComputer",
-      "kind": "news",
-      "attention_keyword": true
     },
     {
       "title": "Hackers Target Critical Oracle E-Business Suite RCE Flaw Days After Security Patch",
