@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-11-02T05:26:06+00:00",
+  "retrieved_at": "2026-11-02T09:30:07+00:00",
   "sources": [
     "cisa_all",
     "cisa_alerts",
@@ -8,6 +8,15 @@
     "hackernews"
   ],
   "items": [
+    {
+      "title": "New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value",
+      "url": "https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html",
+      "published": "Mon, 02 Nov 2026 11:21:07 +0530",
+      "summary": "Cybersecurity researchers have discovered a new Windows infostealer malware called VOLTA-AUTODOXER (aka VOLTA) that makes use of a large language model (LLM) to rank a victim's stolen data by their monetization value. Like other typical stealer families, VOLTA is equipped to harvest passwords and cookies from Chromium-based web browsers; data from Outlook profiles and Slack workspaces;",
+      "source": "The Hacker News",
+      "kind": "news",
+      "attention_keyword": false
+    },
     {
       "title": "FBI links $6.3 billion Binance crypto heist to North Korean hackers",
       "url": "https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/",
@@ -57,7 +66,7 @@
       "title": "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist",
       "url": "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html",
       "published": "Sun, 01 Nov 2026 12:33:00 +0530",
-      "summary": "The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets to TraderTraitor, a North Korea-aligned elite hacking group also tracked as Jade Sleet, Pressure Chollima, PUKCHONG, Slow Pisces, and UNC4899. The FBI, along with the U.S. Secret Service (USSS) and the Internal Revenue Service Criminal Investigation (IRS-CI), said it",
+      "summary": "The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets from Binance to TraderTraitor, a North Korea-aligned elite hacking group also tracked as Jade Sleet, Pressure Chollima, PUKCHONG, Slow Pisces, and UNC4899. The FBI, along with the U.S. Secret Service (USSS) and the Internal Revenue Service Criminal Investigation (IRS-CI),",
       "source": "The Hacker News",
       "kind": "news",
       "attention_keyword": false
@@ -580,15 +589,6 @@
       "url": "https://thehackernews.com/2026/10/goahead-tls-flaws-allow-revoked-client.html",
       "published": "Tue, 27 Oct 2026 19:29:48 +0530",
       "summary": "The GoAhead embedded web server loaded a certificate revocation list into its default TLS backend but never turned revocation checking on, so a revoked client certificate could still pass login on affected setups. The flaw is in builds that use the OpenSSL backend with mutual-TLS, where the server checks a client certificate and vice versa, and a revocation list is configured to block revoked",
-      "source": "The Hacker News",
-      "kind": "news",
-      "attention_keyword": false
-    },
-    {
-      "title": "Apple Backports Fix for Exploited CoreGraphics Flaw to Older iPhones and iPads",
-      "url": "https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html",
-      "published": "Tue, 27 Oct 2026 19:29:09 +0530",
-      "summary": "Apple on Monday backported fixes for a high-severity security flaw that was exploited in real-world cyber attacks to older devices. The vulnerability, tracked as CVE-2026-86950 (CVSS score: 8.8), is an out-of-bounds write affecting CoreGraphics that could result in arbitrary code execution when processing a maliciously crafted file. Patches for the flaw were released last month by Apple in",
       "source": "The Hacker News",
       "kind": "news",
       "attention_keyword": false
