@@ -1,7 +1,16 @@
 {
-  "retrieved_at": "2026-11-03T05:19:10+00:00",
+  "retrieved_at": "2026-11-03T09:14:32+00:00",
   "comparison_available": true,
-  "new_count": 0,
-  "new_documents": [],
+  "new_count": 1,
+  "new_documents": [
+    {
+      "title": "Pipeline Safety: Amendments to Liquefied Natural Gas Facilities",
+      "date": "2026-11-03",
+      "url": "https://www.federalregister.gov/documents/2026/11/03/2026-22396/pipeline-safety-amendments-to-liquefied-natural-gas-facilities",
+      "type": "Proposed Rule",
+      "agency": "Transportation Department, Pipeline and Hazardous Materials Safety Administration",
+      "abstract": "PHMSA proposes updating its regulations for liquefied natural gas (LNG) facilities to incorporate by reference the most recent industry safety standards and to make other changes to account for more than two decades of improvements and technological advancements. This rulemaking also responds to congressional mandates directing PHMSA to integrate risk-based regulatory approaches for certain LNG facilities."
+    }
+  ],
   "note": "New means first observed in the current matching search results, not necessarily new binding federal policy. Search results may include notices, proposed rules and unrelated documents."
 }

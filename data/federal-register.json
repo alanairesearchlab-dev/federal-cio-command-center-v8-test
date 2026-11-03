@@ -1,8 +1,16 @@
 {
-  "retrieved_at": "2026-11-03T05:19:10+00:00",
+  "retrieved_at": "2026-11-03T09:14:32+00:00",
   "source": "https://www.federalregister.gov/api/v1/documents.json?per_page=100&order=newest&conditions%5Bterm%5D=cybersecurity%20OR%20artificial%20intelligence%20OR%20information%20technology",
   "count": 100,
   "items": [
+    {
+      "title": "Pipeline Safety: Amendments to Liquefied Natural Gas Facilities",
+      "date": "2026-11-03",
+      "url": "https://www.federalregister.gov/documents/2026/11/03/2026-22396/pipeline-safety-amendments-to-liquefied-natural-gas-facilities",
+      "type": "Proposed Rule",
+      "agency": "Transportation Department, Pipeline and Hazardous Materials Safety Administration",
+      "abstract": "PHMSA proposes updating its regulations for liquefied natural gas (LNG) facilities to incorporate by reference the most recent industry safety standards and to make other changes to account for more than two decades of improvements and technological advancements. This rulemaking also responds to congressional mandates directing PHMSA to integrate risk-based regulatory approaches for certain LNG facilities."
+    },
     {
       "title": "NCUA Draft 2027-2028 Budget",
       "date": "2026-10-28",
@@ -794,14 +802,6 @@
       "type": "Notice",
       "agency": "Health and Human Services Department, ",
       "abstract": "This document announces that the Establishment of the Advanced Research Projects Agency for Health (ARPA-H) is being amended to reflect a revised organizational structure for ARPA-H that aligns with current statutory requirements. See 42 U.S.C. 290c(a)(2)."
-    },
-    {
-      "title": "Request for Nominations of Individuals and Industry Organizations for the Patient Engagement Advisory Committee",
-      "date": "2024-12-30",
-      "url": "https://www.federalregister.gov/documents/2024/12/30/2024-31272/request-for-nominations-of-individuals-and-industry-organizations-for-the-patient-engagement",
-      "type": "Notice",
-      "agency": "Health and Human Services Department, Food and Drug Administration",
-      "abstract": "The Food and Drug Administration (FDA or the Agency) is requesting that any industry organizations interested in participating in the selection of a pool of nonvoting industry representatives to serve as temporary nonvoting members on the Patient Engagement Advisory Committee (the Committee) in the Center for Devices and Radiological Health notify FDA in writing. FDA is also requesting nominations for temporary nonvoting industry representatives to be included in a pool of individuals to serve on the Committee. Nominees recommended to serve as a temporary nonvoting industry representative may "
     }
   ]
 }
