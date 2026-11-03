@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-11-02T21:04:29+00:00",
+  "retrieved_at": "2026-11-03T01:31:44+00:00",
   "sources": [
     "cisa_all",
     "cisa_alerts",
@@ -8,6 +8,15 @@
     "hackernews"
   ],
   "items": [
+    {
+      "title": "Chinese hackers use ARTEX AI in automated attacks against 200 orgs",
+      "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs/",
+      "published": "Mon, 02 Nov 2026 16:40:14 -0500",
+      "summary": "Chinese hackers used ARTEX, an open-source, multi-agent AI penetration-testing framework, in attacks against more than 200 organizations across 14 countries. [...]",
+      "source": "BleepingComputer",
+      "kind": "news",
+      "attention_keyword": false
+    },
     {
       "title": "Fintech platform Sageworks taken offline after suspected cyberattack",
       "url": "https://www.bleepingcomputer.com/news/security/fintech-platform-sageworks-taken-offline-after-suspected-cyberattack/",
@@ -238,15 +247,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/",
       "published": "Sat, 31 Oct 2026 11:35:11 -0400",
       "summary": "A security researcher has released a proof-of-concept exploit for a recently patched Android vulnerability, dubbed \"SMS of Death\" and tracked as CVE-2026-58882, that lets attackers remotely disrupt cellular service or crash phones by sending a specially crafted text message. [...]",
-      "source": "BleepingComputer",
-      "kind": "news",
-      "attention_keyword": false
-    },
-    {
-      "title": "Reddit to lock content behind logins to fight scrapers",
-      "url": "https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/",
-      "published": "Sat, 31 Oct 2026 10:05:15 -0400",
-      "summary": "Reddit announced in a post by co-founder Steve Huffman that the site will gradually become a \"logged-in service,\" offering limited access to visitors without accounts. [...]",
       "source": "BleepingComputer",
       "kind": "news",
       "attention_keyword": false
