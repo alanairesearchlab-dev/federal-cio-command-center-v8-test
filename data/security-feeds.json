@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-11-03T09:14:32+00:00",
+  "retrieved_at": "2026-11-03T13:32:34+00:00",
   "sources": [
     "cisa_all",
     "cisa_alerts",
@@ -8,6 +8,60 @@
     "hackernews"
   ],
   "items": [
+    {
+      "title": "Google adds new $250,000 Cloud VRP reward for Root-in-Cloud bugs",
+      "url": "https://www.bleepingcomputer.com/news/google/google-adds-new-250-000-cloud-vrp-reward-for-root-in-cloud-bugs/",
+      "published": "Tue, 03 Nov 2026 07:05:52 -0500",
+      "summary": "Google has expanded its Cloud Vulnerability Reward Program (VRP) with a new top-tier reward for high-impact architectural security flaws. [...]",
+      "source": "BleepingComputer",
+      "kind": "news",
+      "attention_keyword": false
+    },
+    {
+      "title": "Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing",
+      "url": "https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html",
+      "published": "Tue, 03 Nov 2026 16:53:53 +0530",
+      "summary": "Fixed kernels for a use-after-free vulnerability in the Linux kernel's IPv4 TCP code are now available for Red Hat Enterprise Linux 8, 9, and 10, while Ubuntu's fixes for its three newest long-term-support releases remain in its opt-in testing channel with no date for a regular update. The flaw, tracked as CVE-2026-98432, can be reached by a remote, unauthenticated attacker and can",
+      "source": "The Hacker News",
+      "kind": "news",
+      "attention_keyword": false
+    },
+    {
+      "title": "The 4 Elements of Exposure Prioritization and How to Operationalize Them",
+      "url": "https://thehackernews.com/2026/11/the-4-elements-of-exposure.html",
+      "published": "Tue, 03 Nov 2026 16:48:20 +0530",
+      "summary": "Your team is remediating more vulnerabilities than ever, yet your breach risk has barely changed. You’re spending too much time and effort on exposures attackers may never exploit, while higher-risk exposures sit, waiting in the queue. Gartner®’s report on exposure prioritization states that fewer than 10% of vulnerabilities are exploited, yet most are treated as urgent. The report also argues",
+      "source": "The Hacker News",
+      "kind": "news",
+      "attention_keyword": false
+    },
+    {
+      "title": "Russia-Aligned Gorbag Hackers Exploit WinRAR Flaw to Deploy Data-Stealing Malware",
+      "url": "https://thehackernews.com/2026/11/russia-aligned-gorbag-hackers-exploit.html",
+      "published": "Tue, 03 Nov 2026 16:30:45 +0530",
+      "summary": "A Russia-aligned threat actor known as Gorbag has been observed using simple information stealer malware in attacks targeting Ukrainian organizations. \"Active since at least February 2025, the group has focused exclusively on Ukrainian targets, with a clear preference for law enforcement and justice entities, local administrations near the front line, and the defense sector,\" ESET researcher",
+      "source": "The Hacker News",
+      "kind": "news",
+      "attention_keyword": false
+    },
+    {
+      "title": "Harvard University data breach exposed info of 851,000 accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/harvard-university-data-breach-exposed-info-of-851-000-accounts/",
+      "published": "Tue, 03 Nov 2026 05:53:25 -0500",
+      "summary": "Hackers who breached Harvard University's Alumni Affairs and Development systems in November 2025 stole data linked to more than 850,000 unique email addresses, according to breach notification service Have I Been Pwned. [...]",
+      "source": "BleepingComputer",
+      "kind": "news",
+      "attention_keyword": false
+    },
+    {
+      "title": "Hackers Exploit BTCPay Server Flaw to Steal Bitcoin and Litecoin From Hot Wallets",
+      "url": "https://thehackernews.com/2026/11/hackers-exploit-btcpay-server-flaw-to.html",
+      "published": "Tue, 03 Nov 2026 14:01:48 +0530",
+      "summary": "BTCPay Server, a self-hosted, open-source cryptocurrency payment processor, has urged users to install the latest version of its software in response to reports of Bitcoin and Litecoin being stolen from hot wallets on instances running older versions. \"Our investigation found that these attacks targeted servers running BTCPay Server 2.4.1 (released on 23 July 2026) or earlier,\" BTCPay Server",
+      "source": "The Hacker News",
+      "kind": "news",
+      "attention_keyword": false
+    },
     {
       "title": "Synology NAS Devices Targeted in Ransomware Attacks Exploiting Patched DSM Flaw",
       "url": "https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html",
@@ -279,24 +333,6 @@
       "attention_keyword": false
     },
     {
-      "title": "Northflank security breach leads to abuse of customers' AI API keys",
-      "url": "https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/",
-      "published": "Sat, 31 Oct 2026 14:01:12 -0400",
-      "summary": "Cloud application hosting platform Northflank is warning customers to rotate all credentials and secrets stored on its platform after a security breach led to unauthorized use of customers' AI API keys. [...]",
-      "source": "BleepingComputer",
-      "kind": "news",
-      "attention_keyword": false
-    },
-    {
-      "title": "New Android SMS of Death exploit can remotely crash unpatched phones",
-      "url": "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/",
-      "published": "Sat, 31 Oct 2026 11:35:11 -0400",
-      "summary": "A security researcher has released a proof-of-concept exploit for a recently patched Android vulnerability, dubbed \"SMS of Death\" and tracked as CVE-2026-58882, that lets attackers remotely disrupt cellular service or crash phones by sending a specially crafted text message. [...]",
-      "source": "BleepingComputer",
-      "kind": "news",
-      "attention_keyword": false
-    },
-    {
       "title": "Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data",
       "url": "https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html",
       "published": "Sat, 31 Oct 2026 17:31:56 +0530",
@@ -562,42 +598,6 @@
       "url": "https://thehackernews.com/2026/10/google-to-allow-one-tap-android-app.html",
       "published": "Wed, 28 Oct 2026 22:38:09 +0530",
       "summary": "Third-party Android app stores can now apply to Google for permission to install apps with one tap, without Android's usual confirmation screens, and to update them in the background. To qualify, a store must pass identity checks and send Google its full catalog, along with every new app and update, for ongoing malware scanning. Approved stores get the features from December 1, but only on",
-      "source": "The Hacker News",
-      "kind": "news",
-      "attention_keyword": false
-    },
-    {
-      "title": "Researcher Reveals How Logic Bugs Alone Cracked Microsoft Edge in $175,000 Pwn2Own Win",
-      "url": "https://thehackernews.com/2026/10/researcher-reveals-how-logic-bugs-alone.html",
-      "published": "Wed, 28 Oct 2026 21:53:34 +0530",
-      "summary": "A chain of logic flaws, with no memory corruption, can turn a malicious web page into code running on a Windows computer outside Microsoft Edge's sandbox, a security researcher has shown. Orange Tsai of DEVCORE published the full method on October 28, five months after the chain won $175,000 at the Pwn2Own Berlin contest in May. Microsoft fixed the Edge bugs the day after the contest,",
-      "source": "The Hacker News",
-      "kind": "news",
-      "attention_keyword": false
-    },
-    {
-      "title": "PHP2Shell Attack Roots 25 Servers, Breaches U.S. Government-Affiliated Network",
-      "url": "https://thehackernews.com/2026/10/php2shell-attack-roots-25-servers.html",
-      "published": "Wed, 28 Oct 2026 21:32:45 +0530",
-      "summary": "Cybersecurity researchers have disclosed details of what appears to be an artificial intelligence (AI)-assisted attack orchestrated by a suspected China-nexus threat actor that has leveraged the PHP2Shell vulnerabilities to breach exposed systems. The activity, which was observed on October 25, 2026, involved an attacker combining PHP2Shell with a kernel privilege escalation exploit to root",
-      "source": "The Hacker News",
-      "kind": "news",
-      "attention_keyword": false
-    },
-    {
-      "title": "Hackers Target Critical Oracle E-Business Suite RCE Flaw Days After Security Patch",
-      "url": "https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html",
-      "published": "Wed, 28 Oct 2026 18:18:03 +0530",
-      "summary": "Threat actors are beginning to probe for a newly patched critical vulnerability in Oracle E-Business Suite (EBS), according to threat intelligence firm Defused Cyber. The vulnerability in question is CVE-2026-101767 (CVSS score: 9.8) , a case of improper authentication in the Oracle Application Object Library of Oracle E-Business Suite. It was patched by Oracle last week as part of its Critical",
-      "source": "The Hacker News",
-      "kind": "news",
-      "attention_keyword": true
-    },
-    {
-      "title": "Critical 16-Year-Old UEFI Flaw Can Run Code Before Secure Boot on Network-Booting Servers",
-      "url": "https://thehackernews.com/2026/10/critical-16-year-old-uefi-flaw-can-run.html",
-      "published": "Wed, 28 Oct 2026 17:20:00 +0530",
-      "summary": "A critical 16-year-old flaw in EDK II, the open-source code that most hardware makers use to build UEFI firmware, can allow an attacker to run code on a machine before its operating system loads, but only while the machine is booting over the network. UEFI firmware is the software that runs first when a computer is switched on, before the operating system. An attacker who can reach the machine",
       "source": "The Hacker News",
       "kind": "news",
       "attention_keyword": false
