@@ -1,5 +1,5 @@
 {
-  "retrieved_at": "2026-11-03T21:10:43+00:00",
+  "retrieved_at": "2026-11-04T01:30:42+00:00",
   "sources": [
     "cisa_all",
     "cisa_alerts",
@@ -8,6 +8,24 @@
     "hackernews"
   ],
   "items": [
+    {
+      "title": "Hackers hijack cPGuard autoupdate to deploy backdoor, steal data",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/",
+      "published": "Tue, 03 Nov 2026 17:18:50 -0500",
+      "summary": "Attackers have compromised the update infrastructure for the cPGuard web security suite to distribute a backdoor and a data-stealing script. [...]",
+      "source": "BleepingComputer",
+      "kind": "news",
+      "attention_keyword": false
+    },
+    {
+      "title": "WorkOS says attacker used ARTEX AI to breach internal sales app",
+      "url": "https://www.bleepingcomputer.com/news/security/workos-says-attacker-used-artex-ai-to-breach-internal-sales-app/",
+      "published": "Tue, 03 Nov 2026 16:28:44 -0500",
+      "summary": "Developer platform WorkOS suffered a data breach after a threat actor accessed business contact records and summaries of customer communications. [...]",
+      "source": "BleepingComputer",
+      "kind": "news",
+      "attention_keyword": false
+    },
     {
       "title": "Binance says fake job interview led to $6.3 billion crypto heist",
       "url": "https://www.bleepingcomputer.com/news/security/binance-says-fake-job-interview-led-to-63-billion-crypto-heist/",
@@ -284,24 +302,6 @@
       "published": "Mon, 02 Nov 2026 20:16:05 +0530",
       "summary": "Cybersecurity researchers have disclosed details of a cyber espionage campaign targeting Israel and the Kurdistan Region of Iraq by an Iran state-aligned threat actor between August and October 2026. According to a report published by Dream Research Labs, the campaign has led to the compromise of a high-profile individual in Israel, along with additional compromises affecting a government cloud",
       "source": "The Hacker News",
-      "kind": "news",
-      "attention_keyword": false
-    },
-    {
-      "title": "Hackers disrupt refrigeration systems at European supermarkets",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-disrupt-refrigeration-systems-at-european-supermarkets/",
-      "published": "Mon, 02 Nov 2026 09:28:39 -0500",
-      "summary": "A cyberattack on refrigeration systems has disrupted stores run by multiple supermarket chains across several European countries after hackers remotely changed temperature settings on freezers and cooling systems. [...]",
-      "source": "BleepingComputer",
-      "kind": "news",
-      "attention_keyword": false
-    },
-    {
-      "title": "Microsoft fixes Smart App Control broken by October Windows update",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-smart-app-control-broken-by-october-windows-update/",
-      "published": "Mon, 02 Nov 2026 08:57:29 -0500",
-      "summary": "Microsoft has resolved a known issue that prevented some users from activating the Smart App Control security feature after installing the October 2026 KB5127648 Windows 11 security update. [...]",
-      "source": "BleepingComputer",
       "kind": "news",
       "attention_keyword": false
     },
